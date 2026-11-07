@@ -14,6 +14,7 @@ window.DS = window.DS || {};
     showMeaning: true,
     showBhava: true,
     showNotes: true,
+    showArt: true,          // verse illustrations
     gloss: "tap",           // off | tap | interlinear
     follow: true            // auto-scroll with audio
   };

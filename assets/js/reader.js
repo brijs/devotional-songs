@@ -224,6 +224,7 @@
       ${sw("showMeaning", "English meaning")}
       ${sw("showBhava", "Reflection (bhāva)")}
       ${sw("showNotes", "Notes &amp; references")}
+      ${DS.song && DS.song.art ? sw("showArt", "Verse illustrations") : ""}
       <h3>Word-by-word</h3>
       ${seg("gloss", [["off", "Off"], ["tap", "Tap a word"], ["interlinear", "Interlinear"]])}
       <p class="hint">Tap a word to see its meaning and Sanskrit root, or show a gloss under every word.</p>

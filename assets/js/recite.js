@@ -29,6 +29,7 @@
   function render() {
     const v = song.verses[idx];
     const p = DS.prefs;
+    DS.emit("recite-verse", v.id);
     const indic = p.script !== "devanagari";
     DS.ensureFont(p.script);
     const orig = v.lines.map((l) => `<span class="ln">${DS.esc(DS.toScript(l.deva, p.script))}</span>`).join("");

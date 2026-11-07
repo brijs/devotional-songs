@@ -27,6 +27,8 @@ It is plain HTML/CSS/JS with no build step, so it can be hosted as-is on GitHub 
 - **Themes:** Auto, Light, Diyā (warm parchment) and Dark. Separate size controls for the body text and the original text.
 - **Recite mode:** one verse at a time in large type, navigated with the keyboard, swipes or taps. A mala-bead counter tracks
   complete recitations toward a target (1, 3, 7, 11, 21, 100 or 108), and the screen stays awake.
+- **Verse illustrations:** an original picture for every verse, drawn from its bhāva and meaning. It sits beside the text
+  on wide screens, becomes a soft background on phones and in Recite mode, and changes as you scroll. It can be turned off in the options.
 - **Audio with verse highlighting:** a sticky player. Once a recording is timed, the current verse is highlighted and
   scrolled into view, and each verse has a "play from here" button.
 
@@ -49,6 +51,19 @@ from archive.org and is not stored or altered here. If this site ever becomes co
 2. Press **T** (or tap **Mark**) as each verse begins.
 3. The timings take effect in your browser immediately. To share them with everyone, click **Copy JSON** and paste the
    result into `"audio": { "timings": { ... } }` in `songs/hanuman-chalisa.json`.
+
+## Illustrations
+
+The verse pictures are SVGs drawn entirely in code, with no image models or stock art. `tools/art/lib.py` is a small
+drawing library: skies, hills, miniature-style waves and clouds, lotuses and lamps, and jointed silhouette figures
+(Hanumān, Rāma, Sītā, sages and devotees) posed by joint coordinates. `tools/art/scenes.py` composes one scene per
+verse and gives each a caption. To regenerate the pictures:
+
+```sh
+python3 tools/art/build.py          # all verses, or pass ids: c18 d3
+```
+
+This writes `assets/art/hanuman-chalisa/<verse-id>.svg` and records the folder and captions under `"art"` in the song JSON.
 
 ## Adding a song
 
@@ -101,7 +116,10 @@ assets/js/translit.js   script conversion and transliteration (Sanscript + Hindi
 assets/js/reader.js     verses, word popovers and settings drawer
 assets/js/audio-sync.js player, verse highlighting and the timing helper
 assets/js/recite.js     recitation mode and mala counter
+assets/js/art.js        verse illustrations (side panel / background)
+assets/art/             generated SVG illustrations
 assets/vendor/          Sanscript 1.3.3 (MIT)
 songs/                  catalog.json and one JSON file per song
 tools/validate.py       data checks
+tools/art/              illustration generator (lib.py, scenes.py, build.py)
 ```
