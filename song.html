@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Devotional Songs</title>
+  <meta name="description" content="Devotional song with original text, transliteration, word-by-word meaning and context.">
+  <meta property="og:title" content="Shri Hanuman Chalisa · Devotional Songs">
+  <meta property="og:description" content="All 43 verses, word by word and root by root, with the stories behind them.">
+  <meta property="og:image" content="thumb.png">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%AA%94%3C/text%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,600;1,400&family=Inter:wght@400;600&family=Tiro+Devanagari+Hindi&display=swap">
+  <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="wrap">
+      <a class="home" href="index.html"><span class="om">ॐ</span><span id="crumb">Devotional Songs</span></a>
+      <button class="btn" id="settingsBtn" aria-label="Reading options"></button>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="song-head" id="songHead" aria-live="polite"></section>
+    <div class="ornament" id="orn1"></div>
+    <section class="about" id="about"></section>
+    <div class="ornament" id="orn2"></div>
+    <section id="verses" aria-label="Verses"></section>
+    <footer>
+      <div class="ornament" id="orn3"></div>
+      <p>॥ सियावर रामचंद्र की जय ॥ पवनसुत हनुमान की जय ॥</p>
+      <p><a href="index.html">All songs</a> · Transliteration by <a href="https://github.com/indic-transliteration/sanscript.js" target="_blank" rel="noopener">Sanscript</a></p>
+    </footer>
+  </main>
+
+  <div class="player" id="player" aria-label="Audio player"></div>
+  <div class="scrim" id="scrim"></div>
+  <aside class="drawer" id="drawer" aria-label="Reading options"></aside>
+  <div class="recite" id="recite" role="dialog" aria-modal="true" aria-label="Recitation mode"></div>
+  <div class="toast" id="reciteToast" role="status"></div>
+
+  <script src="assets/vendor/sanscript.js"></script>
+  <script src="assets/js/common.js"></script>
+  <script src="assets/js/translit.js"></script>
+  <script src="assets/js/reader.js"></script>
+  <script src="assets/js/audio-sync.js"></script>
+  <script src="assets/js/recite.js"></script>
+  <script>
+    document.querySelectorAll(".ornament").forEach((o) => (o.innerHTML = DS.icons.lotus));
+  </script>
+</body>
+</html>

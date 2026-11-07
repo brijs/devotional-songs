@@ -1,0 +1,3282 @@
+{
+ "id": "hanuman-chalisa",
+ "title": {
+  "deva": "श्री हनुमान चालीसा",
+  "en": "Shri Hanuman Chalisa",
+  "iast": "Śrī Hanumān Cālīsā"
+ },
+ "subtitle": "Forty verses in praise of Hanumān",
+ "deity": "Hanumān",
+ "language": "Awadhi",
+ "script": "devanagari",
+ "author": {
+  "name": "Goswami Tulsidas",
+  "deva": "गोस्वामी तुलसीदास",
+  "dates": "c. 1532 – 1623"
+ },
+ "composed": "16th century (traditional attribution)",
+ "epigraph": {
+  "deva": "यत्र यत्र रघुनाथकीर्तनं तत्र तत्र कृतमस्तकाञ्जलिम् ।",
+  "en": "Wherever the glory of Rāma is sung, there Hanumān stands, palms joined above his head."
+ },
+ "about": [
+  {
+   "heading": "The Hymn",
+   "tag": "overview",
+   "body": [
+    "The *Hanumān Chālīsā* is perhaps the most widely recited hymn in the Hindu world. Its name comes from *cālīs*, 'forty', for its forty chaupāīs (quatrain verses), framed by two dohas at the beginning and one at the end.",
+    "It is written in Awadhi, the everyday speech of the region around Ayodhya, not in Sanskrit. This was a deliberate choice of its poet: to bring the love of Rāma and Hanumān into the language of ordinary people. Children learn it by heart, families recite it at dusk, and millions turn to it in moments of fear."
+   ]
+  },
+  {
+   "heading": "The Poet: Goswami Tulsidas",
+   "tag": "history",
+   "body": [
+    "Tulsidas (c. 1532–1623) was a poet-saint and the author of the *Rāmcharitmānas*, the Awadhi retelling of the Rāmāyaṇa that he began in Ayodhya on Rāma Navamī of 1574 and that remains the most beloved scripture of North India.",
+    "Tradition holds that he was born at Rajapur on the Yamuna and given the name *Rāmbolā* because, instead of crying at birth, he uttered 'Rāma'. Separated from his parents in infancy, he was raised in poverty and later taken in by the ascetic Narharidās, who taught him the story of Rāma.",
+    "He married Ratnāvalī and loved her intensely. The story goes that when he followed her to her father's house one stormy night, she rebuked him: 'If you had for Śrī Rāma even half the love you have for this body of bone and skin, you would be free of all fear of the world.' The words pierced him. He renounced home and gave his life to Rāma.",
+    "He spent his later years in Varanasi, where he founded the Saṅkaṭ Mochan Hanumān temple and died at Assi Ghat in 1623. His other works include the *Vinaya Patrikā*, *Kavitāvalī*, *Gītāvalī*, *Dohāvalī* and the *Hanumān Bāhuk*."
+   ]
+  },
+  {
+   "heading": "How Tulsidas met Hanumān",
+   "tag": "legend",
+   "body": [
+    "Tradition says that in Varanasi a grateful spirit told Tulsidas that Hanumān came every day, disguised as an old leper, to listen to the Rāmāyaṇa recitation, always the first to arrive and the last to leave. Tulsidas followed the old man into the forest and fell at his feet. Hanumān revealed himself and promised him a vision of Rāma at Chitrakoot.",
+    "At Chitrakoot, as Tulsidas was grinding sandalwood paste, a young prince asked him for a tilak. Hanumān, as a parrot, sang out so that Tulsidas would recognise who stood before him: *'Chitrakūṭa ke ghāṭa para, bhai santana kī bhīra; Tulasidāsa candana ghiseṁ, tilaka deta Raghubīra'*, 'At the ghat of Chitrakoot the saints have gathered; Tulsidas grinds sandalwood, and Rāma himself applies the tilak.'"
+   ]
+  },
+  {
+   "heading": "The Legend of Fatehpur Sikri",
+   "tag": "legend",
+   "body": [
+    "A popular legend says the Chālīsā was composed in captivity. Emperor Akbar summoned Tulsidas and demanded a miracle. When the saint replied that he knew no miracle but the name of Rāma, he was imprisoned at Fatehpur Sikri. There he composed the forty verses, and when he finished, an army of monkeys overran the fort until the emperor released him with apologies.",
+    "No historical record confirms this story, and it is told as devotional legend. Tradition attributes the Chālīsā to Tulsidas, and its fortieth verse carries his name, but historians note that its authorship, like that of several shorter works linked to him, rests on tradition rather than early manuscripts."
+   ]
+  },
+  {
+   "heading": "Language and Metre",
+   "tag": "overview",
+   "body": [
+    "The hymn uses two metres beloved in medieval Hindi poetry. The **dohā** is a couplet whose halves have 13 + 11 mātrās (syllabic beats). The **chaupāī** has four quarters of 16 mātrās each. In the Chālīsā, each chaupāī is printed as two lines.",
+    "Awadhi often softens Sanskrit words: *yaśas* becomes *jasu*, *varṇa* becomes *baran*, *vidyā* becomes *bidyā*. The word-by-word glosses on this page trace each word back to its Sanskrit root (*dhātu*, shown with √) where there is one."
+   ]
+  },
+  {
+   "heading": "Who is Hanumān?",
+   "tag": "tradition",
+   "body": [
+    "Son of Añjanā and Kesarī, and born by the blessing of Vāyu, the Wind, Hanumān is the greatest devotee in the Rāmāyaṇa. He is strong enough to leap the ocean and humble enough to want nothing but service. He is honoured as an avatāra of Śiva, a master of grammar and music, and a *cirañjīvī*, one who remains on earth through the ages.",
+    "He is the ideal of *dāsya bhakti*, love expressed as service. Asked once who he was, he is said to have answered: 'When I identify with the body, I am Your servant. As a soul, I am a part of You. In truth, You and I are one.'"
+   ]
+  },
+  {
+   "heading": "How it is recited",
+   "tag": "tradition",
+   "body": [
+    "Tuesdays and Saturdays are especially sacred to Hanumān, as is Hanumān Jayantī. Many people recite the Chālīsā once each morning or evening. In times of difficulty they recite it 7, 11 or 21 times, and as a vow 100 times (as verse 38 suggests) or 108 times, the number of beads on a mala.",
+    "This page's **Recite** mode shows one verse at a time in large type and keeps count of your recitations."
+   ]
+  },
+  {
+   "heading": "Did you know?",
+   "tag": "trivia",
+   "body": [
+    "The first doha is the same as the opening doha of the Ayodhyā Kāṇḍa of the *Rāmcharitmānas*.",
+    "The 2011 T-Series video, sung by Hariharan, became the first Indian video on YouTube to pass **5 billion views** (November 2025).",
+    "Neem Karoli Baba's devotees brought the Chālīsā to the West. Ram Dass and Krishna Das made it part of kirtan gatherings around the world.",
+    "The name *Hanumān* is usually explained from *hanu*, 'jaw': the child's jaw was struck by Indra's thunderbolt when he leapt to swallow the sun (verse 18)."
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "label": "Hanuman Chalisa (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Hanuman_Chalisa"
+  },
+  {
+   "label": "Tulsidas (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Tulsidas"
+  },
+  {
+   "label": "Hanuman (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Hanuman"
+  },
+  {
+   "label": "Shree Hanuman Chalisa crosses 5 billion YouTube views (India TV, Nov 2025)",
+   "url": "https://www.indiatvnews.com/entertainment/news/shree-hanuman-chalisa-5-billion-youtube-record-2025-2025-11-26-1019128"
+  },
+  {
+   "label": "Text follows the widely used Gita Press, Gorakhpur edition",
+   "url": "https://www.gitapress.org/"
+  }
+ ],
+ "audio": {
+  "src": "https://archive.org/download/SriRamanBihariDasBabaji02-08-2014KirtanStroudUk/Srbdb2014-08-02Stroud-Chowdas-10ShriHanumanChalisa.mp3",
+  "title": "Shri Hanuman Chalisa (live kirtan)",
+  "artist": "Sri Raman Bihari Das Babaji and devotees",
+  "recorded": "Stroud, UK, 2 August 2014",
+  "license": "CC BY-NC-ND 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "sourceUrl": "https://archive.org/details/SriRamanBihariDasBabaji02-08-2014KirtanStroudUk",
+  "timings": {}
+ },
+ "sections": [
+  {
+   "id": "opening",
+   "label": "Opening Dohas",
+   "deva": "दोहा"
+  },
+  {
+   "id": "chaupais",
+   "label": "Chaupais",
+   "deva": "चौपाई"
+  },
+  {
+   "id": "closing",
+   "label": "Closing Doha",
+   "deva": "दोहा"
+  }
+ ],
+ "verses": [
+  {
+   "id": "d1",
+   "section": "opening",
+   "type": "doha",
+   "number": 1,
+   "lines": [
+    {
+     "deva": "श्रीगुरु चरन सरोज रज निज मनु मुकुरु सुधारि ।",
+     "roman": "Shri-Guru charan saroj raj, nij manu mukuru sudhari",
+     "words": [
+      {
+       "deva": "श्रीगुरु",
+       "gloss": "the revered Guru",
+       "root": "śrī (radiance, auspiciousness; √śri, to shine) + guru (weighty, venerable; √gṝ). Traditionally explained as gu, darkness + ru, remover"
+      },
+      {
+       "deva": "चरन",
+       "gloss": "feet",
+       "root": "Skt. caraṇa ← √car, to move"
+      },
+      {
+       "deva": "सरोज",
+       "gloss": "lotus",
+       "root": "Skt. saro-ja, 'born in a lake': saras (lake) + ja (√jan, to be born)"
+      },
+      {
+       "deva": "रज",
+       "gloss": "dust, pollen",
+       "root": "Skt. rajas"
+      },
+      {
+       "deva": "निज",
+       "gloss": "one's own",
+       "root": "Skt. nija"
+      },
+      {
+       "deva": "मनु",
+       "gloss": "mind",
+       "root": "Skt. manas ← √man, to think"
+      },
+      {
+       "deva": "मुकुरु",
+       "gloss": "mirror",
+       "root": "Skt. mukura"
+      },
+      {
+       "deva": "सुधारि",
+       "gloss": "having cleansed, polished",
+       "root": "cf. Skt. śuddha ← √śudh, to purify"
+      }
+     ]
+    },
+    {
+     "deva": "बरनउँ रघुबर बिमल जसु जो दायकु फल चारि ॥",
+     "roman": "Baranau Raghubar bimal jasu, jo dayaku phal chari",
+     "words": [
+      {
+       "deva": "बरनउँ",
+       "gloss": "I describe, I sing",
+       "root": "Skt. varṇayāmi ← √varṇ, to depict, to colour"
+      },
+      {
+       "deva": "रघुबर",
+       "gloss": "best of the Raghus, Śrī Rāma",
+       "root": "raghu (the Raghu dynasty) + vara (best; √vṛ, to choose)"
+      },
+      {
+       "deva": "बिमल",
+       "gloss": "spotless, pure",
+       "root": "Skt. vimala: vi (without) + mala (stain)"
+      },
+      {
+       "deva": "जसु",
+       "gloss": "glory, fame",
+       "root": "Skt. yaśas"
+      },
+      {
+       "deva": "जो",
+       "gloss": "which",
+       "root": "Skt. yaḥ"
+      },
+      {
+       "deva": "दायकु",
+       "gloss": "giver, bestower",
+       "root": "Skt. dāyaka ← √dā, to give"
+      },
+      {
+       "deva": "फल",
+       "gloss": "fruits",
+       "root": "Skt. phala ← √phal, to ripen, bear fruit"
+      },
+      {
+       "deva": "चारि",
+       "gloss": "four",
+       "root": "Skt. catvāri"
+      }
+     ]
+    }
+   ],
+   "meaning": {
+    "en": "Cleansing the mirror of my mind with the pollen-dust of my revered Guru's lotus feet, I sing the spotless glory of Śrī Rāma, best of the Raghus, which grants the four fruits of life: dharma (righteousness), artha (wealth), kāma (fulfilment) and mokṣa (liberation)."
+   },
+   "bhava": {
+    "en": "The hymn begins not with Hanumān but with humility. The mind is a mirror; only when the Guru's grace wipes away its dust can it reflect the Divine. Even Hanumān's praise starts at the Guru's feet."
+   },
+   "notes": [
+    "This doha is identical to the opening doha of the Ayodhyā Kāṇḍa of Tulsidas' Rāmcharitmānas.",
+    "The 'four fruits' (puruṣārthas) are dharma, artha, kāma and mokṣa."
+   ]
+  },
+  {
+   "id": "d2",
+   "section": "opening",
+   "type": "doha",
+   "number": 2,
+   "lines": [
+    {
+     "deva": "बुद्धिहीन तनु जानिके सुमिरौं पवनकुमार ।",
+     "roman": "Buddhiheen tanu janike, sumirau Pavan-kumar",
+     "words": [
+      {
+       "deva": "बुद्धिहीन",
+       "gloss": "lacking in understanding",
+       "root": "buddhi (√budh, to awaken, to know) + hīna (√hā, to abandon)"
+      },
+      {
+       "deva": "तनु",
+       "gloss": "body, this self",
+       "root": "Skt. tanu, body"
+      },
+      {
+       "deva": "जानिके",
+       "gloss": "knowing (myself to be)",
+       "root": "← √jñā, to know"
+      },
+      {
+       "deva": "सुमिरौं",
+       "gloss": "I remember, I contemplate",
+       "root": "Skt. smarāmi ← √smṛ, to remember"
+      },
+      {
+       "deva": "पवनकुमार",
+       "gloss": "son of the Wind, Hanumān",
+       "root": "pavana (wind, purifier; √pū, to purify) + kumāra (son, youth)"
+      }
+     ]
+    },
+    {
+     "deva": "बल बुधि बिद्या देहु मोहिं हरहु कलेस बिकार ॥",
+     "roman": "Bal budhi bidya dehu mohi, harahu kales bikar",
+     "words": [
+      {
+       "deva": "बल",
+       "gloss": "strength",
+       "root": "Skt. bala"
+      },
+      {
+       "deva": "बुधि",
+       "gloss": "intelligence, wisdom",
+       "root": "Skt. buddhi ← √budh, to awaken"
+      },
+      {
+       "deva": "बिद्या",
+       "gloss": "knowledge",
+       "root": "Skt. vidyā ← √vid, to know"
+      },
+      {
+       "deva": "देहु",
+       "gloss": "grant",
+       "root": "← √dā, to give"
+      },
+      {
+       "deva": "मोहिं",
+       "gloss": "to me",
+       "root": "Skt. mahyam"
+      },
+      {
+       "deva": "हरहु",
+       "gloss": "take away",
+       "root": "← √hṛ, to carry off, remove"
+      },
+      {
+       "deva": "कलेस",
+       "gloss": "afflictions",
+       "root": "Skt. kleśa ← √kliś, to torment"
+      },
+      {
+       "deva": "बिकार",
+       "gloss": "impurities, distortions of mind",
+       "root": "Skt. vikāra: vi + √kṛ, to make (a change, a deformity)"
+      }
+     ]
+    }
+   ],
+   "meaning": {
+    "en": "Knowing myself to be lacking in understanding, I remember you, O Son of the Wind. Grant me strength, wisdom and knowledge, and take away my afflictions and impurities."
+   },
+   "bhava": {
+    "en": "An honest prayer: 'I do not know enough.' Strength (bala), wisdom (buddhi) and knowledge (vidyā) are asked for together, because each needs the others. Strength without wisdom harms, and knowledge without strength cannot act."
+   },
+   "notes": [
+    "Kleśa is a technical word in yoga: Patañjali names five kleśas, which are ignorance, ego, attachment, aversion and clinging to life."
+   ]
+  },
+  {
+   "id": "c1",
+   "section": "chaupais",
+   "type": "chaupai",
+   "number": 1,
+   "lines": [
+    {
+     "deva": "जय हनुमान ज्ञान गुन सागर ।",
+     "roman": "Jai Hanuman gyan gun sagar",
+     "words": [
+      {
+       "deva": "जय",
+       "gloss": "victory, glory to",
+       "root": "Skt. jaya ← √ji, to conquer"
+      },
+      {
+       "deva": "हनुमान",
+       "gloss": "Hanumān, 'the one with the (strong) jaw'",
+       "root": "hanu (jaw) + -mat (possessing)"
+      },
+      {
+       "deva": "ज्ञान",
+       "gloss": "knowledge",
+       "root": "Skt. jñāna ← √jñā, to know"
+      },
+      {
+       "deva": "गुन",
+       "gloss": "virtues",
+       "root": "Skt. guṇa"
+      },
+      {
+       "deva": "सागर",
+       "gloss": "ocean",
+       "root": "Skt. sāgara, the ocean dug by the sons of King Sagara"
+      }
+     ]
+    },
+    {
+     "deva": "जय कपीस तिहुँ लोक उजागर ॥",
+     "roman": "Jai Kapis tihun lok ujagar",
+     "words": [
+      {
+       "deva": "जय",
+       "gloss": "glory to",
+       "root": "Skt. jaya ← √ji, to conquer"
+      },
+      {
+       "deva": "कपीस",
+       "gloss": "lord of the monkeys",
+       "root": "kapi (monkey) + īśa (lord; √īś, to rule)"
+      },
+      {
+       "deva": "तिहुँ",
+       "gloss": "(all) three",
+       "root": "Skt. tri"
+      },
+      {
+       "deva": "लोक",
+       "gloss": "worlds",
+       "root": "Skt. loka ← √lok, to see (the visible world)"
+      },
+      {
+       "deva": "उजागर",
+       "gloss": "illuminator, renowned",
+       "root": "possibly from Skt. ud + √jāgṛ, to be fully awake or manifest"
+      }
+     ]
+    }
+   ],
+   "meaning": {
+    "en": "Victory to you, Hanumān, ocean of knowledge and virtue! Victory to the Lord of the monkeys, who illumines all three worlds!"
+   },
+   "bhava": {
+    "en": "An ocean cannot be measured or emptied, and is never diminished by those who draw from it. So it is with his wisdom and goodness."
+   }
+  },
+  {
+   "id": "c2",
+   "section": "chaupais",
+   "type": "chaupai",
+   "number": 2,
+   "lines": [
+    {
+     "deva": "राम दूत अतुलित बल धामा ।",
+     "roman": "Ram doot atulit bal dhama",
+     "words": [
+      {
+       "deva": "राम",
+       "gloss": "Śrī Rāma",
+       "root": "Skt. rāma ← √ram, to delight: 'the one in whom all delight'"
+      },
+      {
+       "deva": "दूत",
+       "gloss": "messenger",
+       "root": "Skt. dūta"
+      },
+      {
+       "deva": "अतुलित",
+       "gloss": "incomparable, matchless",
+       "root": "a (not) + √tul, to weigh: 'that cannot be weighed'"
+      },
+      {
+       "deva": "बल",
+       "gloss": "strength",
+       "root": "Skt. bala"
+      },
+      {
+       "deva": "धामा",
+       "gloss": "abode, home",
+       "root": "Skt. dhāman ← √dhā, to place"
+      }
+     ]
+    },
+    {
+     "deva": "अंजनिपुत्र पवनसुत नामा ॥",
+     "roman": "Anjani-putra Pavansut nama",
+     "words": [
+      {
+       "deva": "अंजनिपुत्र",
+       "gloss": "son of Añjanā",
+       "root": "Añjanā (his mother) + putra (son)"
+      },
+      {
+       "deva": "पवनसुत",
+       "gloss": "son of the Wind",
+       "root": "pavana (wind) + suta (son; √sū, to beget)"
+      },
+      {
+       "deva": "नामा",
+       "gloss": "named, known as",
+       "root": "Skt. nāman"
+      }
+     ]
+    }
+   ],
+   "meaning": {
+    "en": "You are Rāma's messenger, the home of matchless strength, known as Añjanī's son and the Son of the Wind."
+   },
+   "bhava": {
+    "en": "His first title is not 'mighty one' but 'Rāma's messenger'. His strength matters because it is placed in service."
+   }
+  },
+  {
+   "id": "c3",
+   "section": "chaupais",
+   "type": "chaupai",
+   "number": 3,
+   "lines": [
+    {
+     "deva": "महाबीर बिक्रम बजरंगी ।",
+     "roman": "Mahabir bikram Bajrangi",
+     "words": [
+      {
+       "deva": "महाबीर",
+       "gloss": "great hero",
+       "root": "mahā (great) + vīra (hero)"
+      },
+      {
+       "deva": "बिक्रम",
+       "gloss": "valorous",
+       "root": "Skt. vikrama: vi + √kram, to stride"
+      },
+      {
+       "deva": "बजरंगी",
+       "gloss": "Bajrangī, whose limbs are like the thunderbolt",
+       "root": "Skt. vajra (thunderbolt, diamond) + aṅga (limb)"
+      }
+     ]
+    },
+    {
+     "deva": "कुमति निवार सुमति के संगी ॥",
+     "roman": "Kumati nivar sumati ke sangi",
+     "words": [
+      {
+       "deva": "कुमति",
+       "gloss": "ill-thinking, bad intellect",
+       "root": "ku (bad) + mati (thought; √man, to think)"
+      },
+      {
+       "deva": "निवार",
+       "gloss": "dispeller",
+       "root": "Skt. nivāraṇa: ni + √vṛ, to ward off"
+      },
+      {
+       "deva": "सुमति",
+       "gloss": "good thinking, a pure intellect",
+       "root": "su (good) + mati"
+      },
+      {
+       "deva": "के",
+       "gloss": "of"
+      },
+      {
+       "deva": "संगी",
+       "gloss": "companion",
+       "root": "Skt. saṅgin ← √sañj, to cling, accompany"
+      }
+     ]
+    }
+   ],
+   "meaning": {
+    "en": "Great hero, mighty in valour, with a body hard as the thunderbolt, you dispel bad thinking and are the companion of good sense."
+   },
+   "bhava": {
+    "en": "He does more than remove our wrong thoughts; he stays as the friend of right thinking. Devotion is a companionship, not a one-time rescue."
+   }
+  },
+  {
+   "id": "c4",
+   "section": "chaupais",
+   "type": "chaupai",
+   "number": 4,
+   "lines": [
+    {
+     "deva": "कंचन बरन बिराज सुबेसा ।",
+     "roman": "Kanchan baran biraj subesa",
+     "words": [
+      {
+       "deva": "कंचन",
+       "gloss": "gold",
+       "root": "Skt. kāñcana"
+      },
+      {
+       "deva": "बरन",
+       "gloss": "complexion, colour",
+       "root": "Skt. varṇa"
+      },
+      {
+       "deva": "बिराज",
+       "gloss": "shining",
+       "root": "Skt. vi + √rāj, to shine, to reign"
+      },
+      {
+       "deva": "सुबेसा",
+       "gloss": "beautifully attired",
+       "root": "su (good) + veṣa (dress)"
+      }
+     ]
+    },
+    {
+     "deva": "कानन कुंडल कुंचित केसा ॥",
+     "roman": "Kanan kundal kunchit kesa",
+     "words": [
+      {
+       "deva": "कानन",
+       "gloss": "in the ears",
+       "root": "Skt. karṇa, ear"
+      },
+      {
+       "deva": "कुंडल",
+       "gloss": "earrings",
+       "root": "Skt. kuṇḍala, ring, coil"
+      },
+      {
+       "deva": "कुंचित",
+       "gloss": "curly",
+       "root": "Skt. kuñcita ← √kuñc, to curve"
+      },
+      {
+       "deva": "केसा",
+       "gloss": "hair",
+       "root": "Skt. keśa"
+      }
+     ]
+    }
+   ],
+   "meaning": {
+    "en": "Your golden form shines in beautiful attire, with rings in your ears and curly hair."
+   },
+   "bhava": {
+    "en": "After his strength, Tulsidas lingers over his beauty. In bhakti, the Lord's form is something to gaze on lovingly, not merely to describe."
+   }
+  },
+  {
+   "id": "c5",
+   "section": "chaupais",
+   "type": "chaupai",
+   "number": 5,
+   "lines": [
+    {
+     "deva": "हाथ बज्र औ ध्वजा बिराजै ।",
+     "roman": "Haath bajra au dhvaja biraje",
+     "words": [
+      {
+       "deva": "हाथ",
+       "gloss": "in the hand",
+       "root": "Skt. hasta"
+      },
+      {
+       "deva": "बज्र",
+       "gloss": "thunderbolt (or the diamond-hard mace)",
+       "root": "Skt. vajra"
+      },
+      {
+       "deva": "औ",
+       "gloss": "and"
+      },
+      {
+       "deva": "ध्वजा",
+       "gloss": "banner, flag",
+       "root": "Skt. dhvaja"
+      },
+      {
+       "deva": "बिराजै",
+       "gloss": "shine, are held gloriously",
+       "root": "Skt. vi + √rāj, to shine"
+      }
+     ]
+    },
+    {
+     "deva": "काँधे मूँज जनेऊ साजै ॥",
+     "roman": "Kandhe moonj janeu saje",
+     "words": [
+      {
+       "deva": "काँधे",
+       "gloss": "on the shoulder",
+       "root": "Skt. skandha"
+      },
+      {
+       "deva": "मूँज",
+       "gloss": "muñja grass",
+       "root": "Skt. muñja, a sacred grass"
+      },
+      {
+       "deva": "जनेऊ",
+       "gloss": "sacred thread",
+       "root": "Skt. yajñopavīta"
+      },
+      {
+       "deva": "साजै",
+       "gloss": "adorns",
+       "root": "← √sajj, to fasten, adorn"
+      }
+     ]
+    }
+   ],
+   "meaning": {
+    "en": "In your hands shine the thunderbolt and the banner, and a sacred thread of muñja grass adorns your shoulder."
+   },
+   "bhava": {
+    "en": "The weapon and the sacred thread appear together: power and purity, the warrior and the seeker in one form."
+   },
+   "notes": [
+    "The banner (dhvaja) is said to be Rāma's own flag, carried by his foremost servant. Arjuna's chariot in the Mahābhārata also bore Hanumān on its banner."
+   ]
+  },
+  {
+   "id": "c6",
+   "section": "chaupais",
+   "type": "chaupai",
+   "number": 6,
+   "lines": [
+    {
+     "deva": "संकर सुवन केसरीनंदन ।",
+     "roman": "Sankar suvan Kesari-nandan",
+     "words": [
+      {
+       "deva": "संकर",
+       "gloss": "Śaṅkara, Śiva",
+       "root": "śam (auspiciousness) + √kṛ, to make: 'one who brings blessing'"
+      },
+      {
+       "deva": "सुवन",
+       "gloss": "son, offspring",
+       "root": "cf. Skt. sūnu ← √sū, to beget"
+      },
+      {
+       "deva": "केसरीनंदन",
+       "gloss": "delight (son) of Kesarī",
+       "root": "kesarin (maned one, lion; Hanumān's father) + nandana (√nand, to rejoice)"
+      }
+     ]
+    },
+    {
+     "deva": "तेज प्रताप महा जग बंदन ॥",
+     "roman": "Tej pratap maha jag bandan",
+     "words": [
+      {
+       "deva": "तेज",
+       "gloss": "radiance",
+       "root": "Skt. tejas ← √tij, to be sharp"
+      },
+      {
+       "deva": "प्रताप",
+       "gloss": "majesty, glorious power",
+       "root": "Skt. pratāpa: pra + √tap, to blaze"
+      },
+      {
+       "deva": "महा",
+       "gloss": "great",
+       "root": "Skt. mahā"
+      },
+      {
+       "deva": "जग",
+       "gloss": "the world",
+       "root": "Skt. jagat ← √gam, to go ('that which moves')"
+      },
+      {
+       "deva": "बंदन",
+       "gloss": "revered, saluted",
+       "root": "Skt. vandana ← √vand, to salute"
+      }
+     ]
+    }
+   ],
+   "meaning": {
+    "en": "Born of Śiva's essence, beloved son of Kesarī, your radiance and majesty are great, and the whole world bows to you."
+   },
+   "bhava": {
+    "en": "Hanumān unites Śiva and Rāma. He is Śiva's own power given in service to Viṣṇu's avatāra, showing that devotion knows no sectarian walls."
+   },
+   "notes": [
+    "Many editions read 'शंकर स्वयं केसरीनंदन' (Śiva himself is Kesarī's son), reflecting the tradition that Hanumān is an avatāra of Rudra."
+   ]
+  },
+  {
+   "id": "c7",
+   "section": "chaupais",
+   "type": "chaupai",
+   "number": 7,
+   "lines": [
+    {
+     "deva": "बिद्यावान गुनी अति चातुर ।",
+     "roman": "Bidyavan guni ati chatur",
+     "words": [
+      {
+       "deva": "बिद्यावान",
+       "gloss": "learned",
+       "root": "vidyā (knowledge; √vid) + -vat (possessing)"
+      },
+      {
+       "deva": "गुनी",
+       "gloss": "virtuous",
+       "root": "Skt. guṇin"
+      },
+      {
+       "deva": "अति",
+       "gloss": "exceedingly",
+       "root": "Skt. ati"
+      },
+      {
+       "deva": "चातुर",
+       "gloss": "clever, wise",
+       "root": "Skt. catura"
+      }
+     ]
+    },
+    {
+     "deva": "राम काज करिबे को आतुर ॥",
+     "roman": "Ram kaj karibe ko atur",
+     "words": [
+      {
+       "deva": "राम",
+       "gloss": "Rāma's",
+       "root": "√ram, to delight"
+      },
+      {
+       "deva": "काज",
+       "gloss": "work, mission",
+       "root": "Skt. kārya ← √kṛ, to do"
+      },
+      {
+       "deva": "करिबे",
+       "gloss": "to do",
+       "root": "← √kṛ, to do"
+      },
+      {
+       "deva": "को",
+       "gloss": "for"
+      },
+      {
+       "deva": "आतुर",
+       "gloss": "eager, impatient",
+       "root": "Skt. ātura"
+      }
+     ]
+    }
+   ],
+   "meaning": {
+    "en": "Learned, virtuous and exceedingly wise, you are always eager to do Rāma's work."
+   },
+   "bhava": {
+    "en": "All his learning leads to one thing: eagerness to serve. Knowledge here is not hoarded; it is offered."
+   },
+   "notes": [
+    "In the Rāmāyaṇa, Rāma is struck by Hanumān's flawless speech at their first meeting and remarks that one who speaks so must have mastered the Vedas and grammar."
+   ]
+  },
+  {
+   "id": "c8",
+   "section": "chaupais",
+   "type": "chaupai",
+   "number": 8,
+   "lines": [
+    {
+     "deva": "प्रभु चरित्र सुनिबे को रसिया ।",
+     "roman": "Prabhu charitra sunibe ko rasiya",
+     "words": [
+      {
+       "deva": "प्रभु",
+       "gloss": "the Lord's",
+       "root": "Skt. prabhu: pra + √bhū, to be (pre-eminent)"
+      },
+      {
+       "deva": "चरित्र",
+       "gloss": "deeds, story",
+       "root": "Skt. caritra ← √car, to move, to act"
+      },
+      {
+       "deva": "सुनिबे",
+       "gloss": "hearing",
+       "root": "← √śru, to hear"
+      },
+      {
+       "deva": "को",
+       "gloss": "of"
+      },
+      {
+       "deva": "रसिया",
+       "gloss": "relisher, connoisseur",
+       "root": "Skt. rasika ← rasa (juice, flavour, delight)"
+      }
+     ]
+    },
+    {
+     "deva": "राम लखन सीता मन बसिया ॥",
+     "roman": "Ram Lakhan Sita man basiya",
+     "words": [
+      {
+       "deva": "राम",
+       "gloss": "Rāma",
+       "root": "√ram, to delight"
+      },
+      {
+       "deva": "लखन",
+       "gloss": "Lakṣmaṇa",
+       "root": "Skt. Lakṣmaṇa"
+      },
+      {
+       "deva": "सीता",
+       "gloss": "Sītā",
+       "root": "Skt. sītā, 'furrow'; she was found in a ploughed field"
+      },
+      {
+       "deva": "मन",
+       "gloss": "in (whose) heart",
+       "root": "Skt. manas"
+      },
+      {
+       "deva": "बसिया",
+       "gloss": "dwell",
+       "root": "← √vas, to dwell"
+      }
+     ]
+    }
+   ],
+   "meaning": {
+    "en": "You delight in hearing the Lord's story; Rāma, Lakṣmaṇa and Sītā dwell in your heart."
+   },
+   "bhava": {
+    "en": "Hanumān is the great rasika: he never tires of Rāma's story. Tradition says that wherever the Rāmāyaṇa is recited, he is present, listening with folded hands."
+   },
+   "notes": [
+    "The traditional verse: 'yatra yatra raghunātha-kīrtanaṃ tatra tatra kṛta-mastakāñjalim…', meaning that wherever Rāma's glory is sung, there Hanumān stands with palms joined above his head and eyes full of tears."
+   ]
+  },
+  {
+   "id": "c9",
+   "section": "chaupais",
+   "type": "chaupai",
+   "number": 9,
+   "lines": [
+    {
+     "deva": "सूक्ष्म रूप धरि सियहिं दिखावा ।",
+     "roman": "Sukshma roop dhari Siyahi dikhava",
+     "words": [
+      {
+       "deva": "सूक्ष्म",
+       "gloss": "subtle, tiny",
+       "root": "Skt. sūkṣma"
+      },
+      {
+       "deva": "रूप",
+       "gloss": "form",
+       "root": "Skt. rūpa"
+      },
+      {
+       "deva": "धरि",
+       "gloss": "assuming",
+       "root": "← √dhṛ, to hold, bear"
+      },
+      {
+       "deva": "सियहिं",
+       "gloss": "to Sītā",
+       "root": "Sītā"
+      },
+      {
+       "deva": "दिखावा",
+       "gloss": "showed",
+       "root": "← √dṛś, to see"
+      }
+     ]
+    },
+    {
+     "deva": "बिकट रूप धरि लंक जरावा ॥",
+     "roman": "Bikat roop dhari Lank jarava",
+     "words": [
+      {
+       "deva": "बिकट",
+       "gloss": "fearsome, formidable",
+       "root": "Skt. vikaṭa"
+      },
+      {
+       "deva": "रूप",
+       "gloss": "form",
+       "root": "Skt. rūpa"
+      },
+      {
+       "deva": "धरि",
+       "gloss": "assuming",
+       "root": "← √dhṛ, to hold"
+      },
+      {
+       "deva": "लंक",
+       "gloss": "Laṅkā"
+      },
+      {
+       "deva": "जरावा",
+       "gloss": "burned",
+       "root": "Skt. jvālaya ← √jval, to blaze"
+      }
+     ]
+    }
+   ],
+   "meaning": {
+    "en": "Taking a tiny form, you appeared before Sītā; taking a fearsome form, you burned Laṅkā."
+   },
+   "bhava": {
+    "en": "Small before the Mother, vast before arrogance. True strength knows when to become little."
+   },
+   "notes": [
+    "In the Sundara Kāṇḍa, Hanumān shrinks to the size of a cat (or smaller) to enter Laṅkā and appears to Sītā in the Aśoka grove."
+   ]
+  },
+  {
+   "id": "c10",
+   "section": "chaupais",
+   "type": "chaupai",
+   "number": 10,
+   "lines": [
+    {
+     "deva": "भीम रूप धरि असुर सँहारे ।",
+     "roman": "Bheem roop dhari asur sanhare",
+     "words": [
+      {
+       "deva": "भीम",
+       "gloss": "terrible, mighty",
+       "root": "Skt. bhīma ← √bhī, to fear"
+      },
+      {
+       "deva": "रूप",
+       "gloss": "form",
+       "root": "Skt. rūpa"
+      },
+      {
+       "deva": "धरि",
+       "gloss": "assuming",
+       "root": "← √dhṛ, to hold"
+      },
+      {
+       "deva": "असुर",
+       "gloss": "demons",
+       "root": "Skt. asura"
+      },
+      {
+       "deva": "सँहारे",
+       "gloss": "destroyed",
+       "root": "Skt. saṃhāra: sam + √hṛ, to take away completely"
+      }
+     ]
+    },
+    {
+     "deva": "रामचंद्र के काज सँवारे ॥",
+     "roman": "Ramchandra ke kaj sanvare",
+     "words": [
+      {
+       "deva": "रामचंद्र",
+       "gloss": "Rāmacandra, 'Rāma the moon'",
+       "root": "rāma + candra (moon; √cand, to shine)"
+      },
+      {
+       "deva": "के",
+       "gloss": "of"
+      },
+      {
+       "deva": "काज",
+       "gloss": "tasks",
+       "root": "Skt. kārya ← √kṛ"
+      },
+      {
+       "deva": "सँवारे",
+       "gloss": "accomplished, set right",
+       "root": "cf. Skt. sam + √vṛ, to arrange"
+      }
+     ]
+    }
+   ],
+   "meaning": {
+    "en": "Assuming a mighty form you destroyed the demons, and you accomplished every task of Rāmacandra."
+   },
+   "bhava": {
+    "en": "Every form he takes, tiny or terrible, serves one purpose: Rāma's work. Nothing he does is for himself."
+   }
+  },
+  {
+   "id": "c11",
+   "section": "chaupais",
+   "type": "chaupai",
+   "number": 11,
+   "lines": [
+    {
+     "deva": "लाय सजीवन लखन जियाये ।",
+     "roman": "Laya Sajivan Lakhan jiyaye",
+     "words": [
+      {
+       "deva": "लाय",
+       "gloss": "bringing"
+      },
+      {
+       "deva": "सजीवन",
+       "gloss": "the Sañjīvanī (life-restoring) herb",
+       "root": "Skt. sañjīvanī: sam + √jīv, to live"
+      },
+      {
+       "deva": "लखन",
+       "gloss": "Lakṣmaṇa"
+      },
+      {
+       "deva": "जियाये",
+       "gloss": "revived, brought back to life",
+       "root": "← √jīv, to live"
+      }
+     ]
+    },
+    {
+     "deva": "श्रीरघुबीर हरषि उर लाये ॥",
+     "roman": "Shri-Raghubir harashi ur laye",
+     "words": [
+      {
+       "deva": "श्रीरघुबीर",
+       "gloss": "Śrī Rāma, hero of the Raghus",
+       "root": "śrī + raghu + vīra (hero)"
+      },
+      {
+       "deva": "हरषि",
+       "gloss": "rejoicing",
+       "root": "Skt. harṣa ← √hṛṣ, to thrill"
+      },
+      {
+       "deva": "उर",
+       "gloss": "to (his) chest",
+       "root": "Skt. uras, chest, heart"
+      },
+      {
+       "deva": "लाये",
+       "gloss": "drew, embraced"
+      }
+     ]
+    }
+   ],
+   "meaning": {
+    "en": "Bringing the Sañjīvanī herb, you revived Lakṣmaṇa, and Śrī Rāma, overjoyed, embraced you to his heart."
+   },
+   "bhava": {
+    "en": "When he could not tell which herb was the right one, he brought the whole mountain. Love does not calculate; it brings everything."
+   },
+   "notes": [
+    "When Lakṣmaṇa fell to Meghanāda's weapon, Hanumān flew to the Himālaya for the herb and returned before dawn carrying the entire Droṇagiri peak."
+   ]
+  },
+  {
+   "id": "c12",
+   "section": "chaupais",
+   "type": "chaupai",
+   "number": 12,
+   "lines": [
+    {
+     "deva": "रघुपति कीन्ही बहुत बड़ाई ।",
+     "roman": "Raghupati kinhi bahut badai",
+     "words": [
+      {
+       "deva": "रघुपति",
+       "gloss": "Lord of the Raghus, Rāma",
+       "root": "raghu + pati (lord)"
+      },
+      {
+       "deva": "कीन्ही",
+       "gloss": "did, gave",
+       "root": "← √kṛ, to do"
+      },
+      {
+       "deva": "बहुत",
+       "gloss": "much, greatly",
+       "root": "Skt. bahu"
+      },
+      {
+       "deva": "बड़ाई",
+       "gloss": "praise",
+       "root": "from baṛā, great"
+      }
+     ]
+    },
+    {
+     "deva": "तुम मम प्रिय भरतहि सम भाई ॥",
+     "roman": "Tum mam priya Bharatahi sam bhai",
+     "words": [
+      {
+       "deva": "तुम",
+       "gloss": "you (are)",
+       "root": "Skt. tvam"
+      },
+      {
+       "deva": "मम",
+       "gloss": "my",
+       "root": "Skt. mama"
+      },
+      {
+       "deva": "प्रिय",
+       "gloss": "dear",
+       "root": "Skt. priya ← √prī, to please, to love"
+      },
+      {
+       "deva": "भरतहि",
+       "gloss": "Bharata",
+       "root": "Bharata, Rāma's devoted brother"
+      },
+      {
+       "deva": "सम",
+       "gloss": "equal to",
+       "root": "Skt. sama"
+      },
+      {
+       "deva": "भाई",
+       "gloss": "brother",
+       "root": "Skt. bhrātṛ"
+      }
+     ]
+    }
+   ],
+   "meaning": {
+    "en": "The Lord of the Raghus praised you greatly: 'You are as dear to me as my brother Bharata.'"
+   },
+   "bhava": {
+    "en": "Bharata is the model of perfect love for Rāma. To be called 'equal to Bharata' is the highest praise a devotee could receive, and it is spoken by the Lord himself."
+   }
+  },
+  {
+   "id": "c13",
+   "section": "chaupais",
+   "type": "chaupai",
+   "number": 13,
+   "lines": [
+    {
+     "deva": "सहस बदन तुम्हरो जस गावैं ।",
+     "roman": "Sahas badan tumharo jas gavein",
+     "words": [
+      {
+       "deva": "सहस",
+       "gloss": "thousand",
+       "root": "Skt. sahasra"
+      },
+      {
+       "deva": "बदन",
+       "gloss": "mouths",
+       "root": "Skt. vadana ← √vad, to speak"
+      },
+      {
+       "deva": "तुम्हरो",
+       "gloss": "your"
+      },
+      {
+       "deva": "जस",
+       "gloss": "glory",
+       "root": "Skt. yaśas"
+      },
+      {
+       "deva": "गावैं",
+       "gloss": "sing",
+       "root": "← √gai, to sing"
+      }
+     ]
+    },
+    {
+     "deva": "अस कहि श्रीपति कंठ लगावैं ॥",
+     "roman": "As kahi Shripati kanth lagavein",
+     "words": [
+      {
+       "deva": "अस",
+       "gloss": "thus"
+      },
+      {
+       "deva": "कहि",
+       "gloss": "saying",
+       "root": "← √kath, to tell"
+      },
+      {
+       "deva": "श्रीपति",
+       "gloss": "Lord of Śrī (Lakṣmī), Rāma as Viṣṇu",
+       "root": "śrī + pati"
+      },
+      {
+       "deva": "कंठ",
+       "gloss": "to the throat, in embrace",
+       "root": "Skt. kaṇṭha"
+      },
+      {
+       "deva": "लगावैं",
+       "gloss": "draws, embraces"
+      }
+     ]
+    }
+   ],
+   "meaning": {
+    "en": "'May the thousand-mouthed (Śeṣa) sing your glory!' Saying this, the Lord of Śrī embraced you again."
+   },
+   "bhava": {
+    "en": "Rāma's own words fail him. Only Śeṣa, the serpent with a thousand mouths, could sing Hanumān's praise, so Rāma simply embraces him."
+   }
+  },
+  {
+   "id": "c14",
+   "section": "chaupais",
+   "type": "chaupai",
+   "number": 14,
+   "lines": [
+    {
+     "deva": "सनकादिक ब्रह्मादि मुनीसा ।",
+     "roman": "Sanakadik Brahmadi Munisa",
+     "words": [
+      {
+       "deva": "सनकादिक",
+       "gloss": "Sanaka and the other (Kumāras)",
+       "root": "sanaka + ādika (and the rest)"
+      },
+      {
+       "deva": "ब्रह्मादि",
+       "gloss": "Brahmā and the other (gods)",
+       "root": "brahman (√bṛh, to grow, expand) + ādi"
+      },
+      {
+       "deva": "मुनीसा",
+       "gloss": "lords among sages",
+       "root": "muni + īśa (lord)"
+      }
+     ]
+    },
+    {
+     "deva": "नारद सारद सहित अहीसा ॥",
+     "roman": "Narad Sarad sahit Ahisa",
+     "words": [
+      {
+       "deva": "नारद",
+       "gloss": "Nārada, the divine sage"
+      },
+      {
+       "deva": "सारद",
+       "gloss": "Śāradā, Sarasvatī"
+      },
+      {
+       "deva": "सहित",
+       "gloss": "along with",
+       "root": "sa + hita"
+      },
+      {
+       "deva": "अहीसा",
+       "gloss": "lord of serpents, Śeṣa",
+       "root": "ahi (serpent) + īśa (lord)"
+      }
+     ]
+    }
+   ],
+   "meaning": {
+    "en": "Sanaka and the sages, Brahmā and the gods, the great munis, Nārada, Sarasvatī, and the lord of serpents…"
+   },
+   "bhava": {
+    "en": "Tulsidas assembles a heavenly choir: sages, creator, goddess of speech. Then, in the next verse, he admits even they fall short."
+   }
+  },
+  {
+   "id": "c15",
+   "section": "chaupais",
+   "type": "chaupai",
+   "number": 15,
+   "lines": [
+    {
+     "deva": "जम कुबेर दिगपाल जहाँ ते ।",
+     "roman": "Jam Kuber Digpal jahan te",
+     "words": [
+      {
+       "deva": "जम",
+       "gloss": "Yama, lord of death",
+       "root": "Skt. yama, 'restrainer'"
+      },
+      {
+       "deva": "कुबेर",
+       "gloss": "Kubera, lord of wealth"
+      },
+      {
+       "deva": "दिगपाल",
+       "gloss": "guardians of the directions",
+       "root": "dik (direction) + pāla (√pā, to protect)"
+      },
+      {
+       "deva": "जहाँ",
+       "gloss": "wherever (they are)"
+      },
+      {
+       "deva": "ते",
+       "gloss": "they, all of them"
+      }
+     ]
+    },
+    {
+     "deva": "कबि कोबिद कहि सके कहाँ ते ॥",
+     "roman": "Kabi kobid kahi sake kahan te",
+     "words": [
+      {
+       "deva": "कबि",
+       "gloss": "poets",
+       "root": "Skt. kavi, seer-poet"
+      },
+      {
+       "deva": "कोबिद",
+       "gloss": "scholars",
+       "root": "Skt. kovida"
+      },
+      {
+       "deva": "कहि",
+       "gloss": "describe",
+       "root": "← √kath, to tell"
+      },
+      {
+       "deva": "सके",
+       "gloss": "could"
+      },
+      {
+       "deva": "कहाँ",
+       "gloss": "how (could they)?"
+      },
+      {
+       "deva": "ते",
+       "gloss": "they"
+      }
+     ]
+    }
+   ],
+   "meaning": {
+    "en": "…Yama, Kubera and the guardians of the directions: how could any of them, or any poet or scholar, fully describe your glory?"
+   },
+   "bhava": {
+    "en": "When the greatest beings run out of words, the poet's job becomes humility. Praise ends in wonder."
+   }
+  },
+  {
+   "id": "c16",
+   "section": "chaupais",
+   "type": "chaupai",
+   "number": 16,
+   "lines": [
+    {
+     "deva": "तुम उपकार सुग्रीवहिं कीन्हा ।",
+     "roman": "Tum upkar Sugrivahi kinha",
+     "words": [
+      {
+       "deva": "तुम",
+       "gloss": "you"
+      },
+      {
+       "deva": "उपकार",
+       "gloss": "favour, great help",
+       "root": "Skt. upakāra: upa + √kṛ, to do"
+      },
+      {
+       "deva": "सुग्रीवहिं",
+       "gloss": "to Sugrīva",
+       "root": "su (fine) + grīvā (neck)"
+      },
+      {
+       "deva": "कीन्हा",
+       "gloss": "did",
+       "root": "← √kṛ"
+      }
+     ]
+    },
+    {
+     "deva": "राम मिलाय राज पद दीन्हा ॥",
+     "roman": "Ram milaye raj pad dinha",
+     "words": [
+      {
+       "deva": "राम",
+       "gloss": "Rāma"
+      },
+      {
+       "deva": "मिलाय",
+       "gloss": "uniting (him) with",
+       "root": "← √mil, to meet"
+      },
+      {
+       "deva": "राज",
+       "gloss": "kingship",
+       "root": "Skt. rājya"
+      },
+      {
+       "deva": "पद",
+       "gloss": "the position",
+       "root": "Skt. pada"
+      },
+      {
+       "deva": "दीन्हा",
+       "gloss": "gave",
+       "root": "← √dā, to give"
+      }
+     ]
+    }
+   ],
+   "meaning": {
+    "en": "You did Sugrīva a great service: you brought him to Rāma and so gave him back his kingdom."
+   },
+   "bhava": {
+    "en": "Hanumān's greatest gift to anyone is to bring them to Rāma. Everything else follows from that meeting."
+   }
+  },
+  {
+   "id": "c17",
+   "section": "chaupais",
+   "type": "chaupai",
+   "number": 17,
+   "lines": [
+    {
+     "deva": "तुम्हरो मंत्र बिभीषन माना ।",
+     "roman": "Tumharo mantra Bibhishan mana",
+     "words": [
+      {
+       "deva": "तुम्हरो",
+       "gloss": "your"
+      },
+      {
+       "deva": "मंत्र",
+       "gloss": "counsel, advice",
+       "root": "Skt. mantra ← √man, to think"
+      },
+      {
+       "deva": "बिभीषन",
+       "gloss": "Vibhīṣaṇa, Rāvaṇa's righteous brother"
+      },
+      {
+       "deva": "माना",
+       "gloss": "heeded",
+       "root": "← √man, to think, to regard"
+      }
+     ]
+    },
+    {
+     "deva": "लंकेस्वर भए सब जग जाना ॥",
+     "roman": "Lankeshvar bhaye sab jag jana",
+     "words": [
+      {
+       "deva": "लंकेस्वर",
+       "gloss": "lord of Laṅkā",
+       "root": "laṅkā + īśvara (lord)"
+      },
+      {
+       "deva": "भए",
+       "gloss": "became",
+       "root": "← √bhū, to become"
+      },
+      {
+       "deva": "सब",
+       "gloss": "all",
+       "root": "Skt. sarva"
+      },
+      {
+       "deva": "जग",
+       "gloss": "the world",
+       "root": "jagat"
+      },
+      {
+       "deva": "जाना",
+       "gloss": "knows",
+       "root": "← √jñā, to know"
+      }
+     ]
+    }
+   ],
+   "meaning": {
+    "en": "Vibhīṣaṇa heeded your counsel and became lord of Laṅkā, as the whole world knows."
+   },
+   "bhava": {
+    "en": "One good word at the right moment can change a destiny. Hanumān's meeting with Vibhīṣaṇa in Laṅkā set him on the path to Rāma."
+   }
+  },
+  {
+   "id": "c18",
+   "section": "chaupais",
+   "type": "chaupai",
+   "number": 18,
+   "lines": [
+    {
+     "deva": "जुग सहस्र जोजन पर भानू ।",
+     "roman": "Jug sahasra jojan par Bhanu",
+     "words": [
+      {
+       "deva": "जुग",
+       "gloss": "yuga, an age (in this reading, 12,000)",
+       "root": "Skt. yuga ← √yuj, to yoke"
+      },
+      {
+       "deva": "सहस्र",
+       "gloss": "thousand",
+       "root": "Skt. sahasra"
+      },
+      {
+       "deva": "जोजन",
+       "gloss": "yojanas",
+       "root": "Skt. yojana ← √yuj, to yoke: the distance covered in one yoking"
+      },
+      {
+       "deva": "पर",
+       "gloss": "at (a distance of)",
+       "root": "Skt. para, far"
+      },
+      {
+       "deva": "भानू",
+       "gloss": "the sun",
+       "root": "Skt. bhānu ← √bhā, to shine"
+      }
+     ]
+    },
+    {
+     "deva": "लील्यो ताहि मधुर फल जानू ॥",
+     "roman": "Leelyo tahi madhur phal janu",
+     "words": [
+      {
+       "deva": "लील्यो",
+       "gloss": "you swallowed",
+       "root": "Awadhi līlnā, to swallow"
+      },
+      {
+       "deva": "ताहि",
+       "gloss": "it"
+      },
+      {
+       "deva": "मधुर",
+       "gloss": "sweet",
+       "root": "Skt. madhura ← madhu, honey"
+      },
+      {
+       "deva": "फल",
+       "gloss": "fruit",
+       "root": "Skt. phala"
+      },
+      {
+       "deva": "जानू",
+       "gloss": "thinking it to be",
+       "root": "← √jñā, to know"
+      }
+     ]
+    }
+   ],
+   "meaning": {
+    "en": "The sun, thousands of yojanas away, you swallowed, thinking it was a sweet fruit."
+   },
+   "bhava": {
+    "en": "The child Hanumān saw the rising sun and leapt for it, thinking it a ripe fruit. Even his mischief was so innocent and full of light that the gods could only marvel."
+   },
+   "notes": [
+    "Legend: Indra struck the child with his vajra on the jaw (hanu), and the name 'Hanumān' comes from this.",
+    "A popular modern reading multiplies the words: yuga (12,000) × sahasra (1,000) × yojana (≈8 miles) ≈ 96 million miles, close to the Earth–Sun distance (≈93 million miles). This is a devotional curiosity, not a traditional commentary."
+   ]
+  },
+  {
+   "id": "c19",
+   "section": "chaupais",
+   "type": "chaupai",
+   "number": 19,
+   "lines": [
+    {
+     "deva": "प्रभु मुद्रिका मेलि मुख माहीं ।",
+     "roman": "Prabhu mudrika meli mukh mahin",
+     "words": [
+      {
+       "deva": "प्रभु",
+       "gloss": "the Lord's",
+       "root": "Skt. prabhu"
+      },
+      {
+       "deva": "मुद्रिका",
+       "gloss": "signet ring",
+       "root": "Skt. mudrikā ← mudrā, seal"
+      },
+      {
+       "deva": "मेलि",
+       "gloss": "placing"
+      },
+      {
+       "deva": "मुख",
+       "gloss": "mouth",
+       "root": "Skt. mukha"
+      },
+      {
+       "deva": "माहीं",
+       "gloss": "in",
+       "root": "Skt. madhye"
+      }
+     ]
+    },
+    {
+     "deva": "जलधि लाँघि गये अचरज नाहीं ॥",
+     "roman": "Jaladhi langhi gaye acharaj nahin",
+     "words": [
+      {
+       "deva": "जलधि",
+       "gloss": "the ocean",
+       "root": "jala (water) + dhi (√dhā, to hold): 'holder of waters'"
+      },
+      {
+       "deva": "लाँघि",
+       "gloss": "leaping across",
+       "root": "Skt. laṅghana ← √laṅgh, to leap over"
+      },
+      {
+       "deva": "गये",
+       "gloss": "went",
+       "root": "← √gam, to go"
+      },
+      {
+       "deva": "अचरज",
+       "gloss": "wonder",
+       "root": "Skt. āścarya"
+      },
+      {
+       "deva": "नाहीं",
+       "gloss": "(it is) no"
+      }
+     ]
+    }
+   ],
+   "meaning": {
+    "en": "Carrying the Lord's ring in your mouth, you leapt across the ocean. No wonder!"
+   },
+   "bhava": {
+    "en": "Why 'no wonder'? Because he carried Rāma's ring. With the Lord's name and token, the impossible becomes natural."
+   },
+   "notes": [
+    "Rāma gave Hanumān his signet ring to show Sītā as a sign of trust. It is still the emblem of a true messenger."
+   ]
+  },
+  {
+   "id": "c20",
+   "section": "chaupais",
+   "type": "chaupai",
+   "number": 20,
+   "lines": [
+    {
+     "deva": "दुर्गम काज जगत के जेते ।",
+     "roman": "Durgam kaj jagat ke jete",
+     "words": [
+      {
+       "deva": "दुर्गम",
+       "gloss": "difficult",
+       "root": "dur (hard) + √gam (to go): 'hard to reach'"
+      },
+      {
+       "deva": "काज",
+       "gloss": "tasks",
+       "root": "kārya"
+      },
+      {
+       "deva": "जगत",
+       "gloss": "world",
+       "root": "Skt. jagat"
+      },
+      {
+       "deva": "के",
+       "gloss": "of the"
+      },
+      {
+       "deva": "जेते",
+       "gloss": "however many"
+      }
+     ]
+    },
+    {
+     "deva": "सुगम अनुग्रह तुम्हरे तेते ॥",
+     "roman": "Sugam anugrah tumhare tete",
+     "words": [
+      {
+       "deva": "सुगम",
+       "gloss": "easy",
+       "root": "su (easy) + √gam, to go"
+      },
+      {
+       "deva": "अनुग्रह",
+       "gloss": "by the grace",
+       "root": "Skt. anugraha: anu + √grah, to take hold (of someone kindly)"
+      },
+      {
+       "deva": "तुम्हरे",
+       "gloss": "your"
+      },
+      {
+       "deva": "तेते",
+       "gloss": "all of them"
+      }
+     ]
+    }
+   ],
+   "meaning": {
+    "en": "However difficult the tasks of this world, by your grace they all become easy."
+   },
+   "bhava": {
+    "en": "Durgam and sugam differ by one syllable. Grace changes 'hard to reach' into 'easy to reach' without changing the road."
+   }
+  },
+  {
+   "id": "c21",
+   "section": "chaupais",
+   "type": "chaupai",
+   "number": 21,
+   "lines": [
+    {
+     "deva": "राम दुआरे तुम रखवारे ।",
+     "roman": "Ram duare tum rakhvare",
+     "words": [
+      {
+       "deva": "राम",
+       "gloss": "Rāma's"
+      },
+      {
+       "deva": "दुआरे",
+       "gloss": "door",
+       "root": "Skt. dvāra"
+      },
+      {
+       "deva": "तुम",
+       "gloss": "you (are)"
+      },
+      {
+       "deva": "रखवारे",
+       "gloss": "the guardian",
+       "root": "Skt. rakṣapāla ← √rakṣ, to protect"
+      }
+     ]
+    },
+    {
+     "deva": "होत न आज्ञा बिनु पैसारे ॥",
+     "roman": "Hot na agya binu paisare",
+     "words": [
+      {
+       "deva": "होत",
+       "gloss": "happens",
+       "root": "← √bhū"
+      },
+      {
+       "deva": "न",
+       "gloss": "not"
+      },
+      {
+       "deva": "आज्ञा",
+       "gloss": "permission",
+       "root": "Skt. ājñā: ā + √jñā"
+      },
+      {
+       "deva": "बिनु",
+       "gloss": "without",
+       "root": "Skt. vinā"
+      },
+      {
+       "deva": "पैसारे",
+       "gloss": "entry",
+       "root": "Skt. praveśa ← pra + √viś, to enter"
+      }
+     ]
+    }
+   ],
+   "meaning": {
+    "en": "You are the guardian at Rāma's door; no one enters without your permission."
+   },
+   "bhava": {
+    "en": "To reach Rāma, go through Hanumān. The devotee becomes the doorway, which is why Hanumān shrines so often stand at the entrance to Rāma temples."
+   }
+  },
+  {
+   "id": "c22",
+   "section": "chaupais",
+   "type": "chaupai",
+   "number": 22,
+   "lines": [
+    {
+     "deva": "सब सुख लहै तुम्हारी सरना ।",
+     "roman": "Sab sukh lahai tumhari sarna",
+     "words": [
+      {
+       "deva": "सब",
+       "gloss": "all",
+       "root": "Skt. sarva"
+      },
+      {
+       "deva": "सुख",
+       "gloss": "happiness",
+       "root": "Skt. sukha"
+      },
+      {
+       "deva": "लहै",
+       "gloss": "obtains",
+       "root": "Skt. labhate ← √labh, to obtain"
+      },
+      {
+       "deva": "तुम्हारी",
+       "gloss": "in your"
+      },
+      {
+       "deva": "सरना",
+       "gloss": "refuge",
+       "root": "Skt. śaraṇa, shelter"
+      }
+     ]
+    },
+    {
+     "deva": "तुम रच्छक काहू को डर ना ॥",
+     "roman": "Tum rakshak kahu ko dar na",
+     "words": [
+      {
+       "deva": "तुम",
+       "gloss": "(when) you (are)"
+      },
+      {
+       "deva": "रच्छक",
+       "gloss": "protector",
+       "root": "Skt. rakṣaka ← √rakṣ, to protect"
+      },
+      {
+       "deva": "काहू",
+       "gloss": "anyone, anything"
+      },
+      {
+       "deva": "को",
+       "gloss": "of"
+      },
+      {
+       "deva": "डर",
+       "gloss": "fear",
+       "root": "Skt. dara"
+      },
+      {
+       "deva": "ना",
+       "gloss": "no"
+      }
+     ]
+    }
+   ],
+   "meaning": {
+    "en": "Whoever takes refuge in you obtains every joy. With you as protector, why fear anyone?"
+   },
+   "bhava": {
+    "en": "Śaraṇāgati, taking refuge, is the heart of bhakti. Fear does not disappear because danger is gone, but because a protector has come."
+   }
+  },
+  {
+   "id": "c23",
+   "section": "chaupais",
+   "type": "chaupai",
+   "number": 23,
+   "lines": [
+    {
+     "deva": "आपन तेज सम्हारो आपै ।",
+     "roman": "Aapan tej samharo aapai",
+     "words": [
+      {
+       "deva": "आपन",
+       "gloss": "your own",
+       "root": "Skt. ātman"
+      },
+      {
+       "deva": "तेज",
+       "gloss": "radiance, might",
+       "root": "Skt. tejas"
+      },
+      {
+       "deva": "सम्हारो",
+       "gloss": "(can) contain, control",
+       "root": "cf. Skt. sam + √bhṛ, to bear"
+      },
+      {
+       "deva": "आपै",
+       "gloss": "only you yourself"
+      }
+     ]
+    },
+    {
+     "deva": "तीनों लोक हाँक तें काँपै ॥",
+     "roman": "Teenon lok hank te kanpai",
+     "words": [
+      {
+       "deva": "तीनों",
+       "gloss": "all three",
+       "root": "Skt. trīṇi"
+      },
+      {
+       "deva": "लोक",
+       "gloss": "worlds",
+       "root": "Skt. loka"
+      },
+      {
+       "deva": "हाँक",
+       "gloss": "(your) roar"
+      },
+      {
+       "deva": "तें",
+       "gloss": "at"
+      },
+      {
+       "deva": "काँपै",
+       "gloss": "tremble",
+       "root": "Skt. kampate ← √kamp, to tremble"
+      }
+     ]
+    }
+   ],
+   "meaning": {
+    "en": "Only you can contain your own blazing power; at your roar all three worlds tremble."
+   },
+   "bhava": {
+    "en": "Such power, held in such gentleness: that he can contain it is itself a sign of his mastery."
+   }
+  },
+  {
+   "id": "c24",
+   "section": "chaupais",
+   "type": "chaupai",
+   "number": 24,
+   "lines": [
+    {
+     "deva": "भूत पिसाच निकट नहिं आवै ।",
+     "roman": "Bhoot pisach nikat nahin aavai",
+     "words": [
+      {
+       "deva": "भूत",
+       "gloss": "ghosts, spirits",
+       "root": "Skt. bhūta ← √bhū, to be ('that which has been')"
+      },
+      {
+       "deva": "पिसाच",
+       "gloss": "flesh-eating spirits",
+       "root": "Skt. piśāca"
+      },
+      {
+       "deva": "निकट",
+       "gloss": "near",
+       "root": "Skt. nikaṭa"
+      },
+      {
+       "deva": "नहिं",
+       "gloss": "do not"
+      },
+      {
+       "deva": "आवै",
+       "gloss": "come"
+      }
+     ]
+    },
+    {
+     "deva": "महाबीर जब नाम सुनावै ॥",
+     "roman": "Mahabir jab naam sunavai",
+     "words": [
+      {
+       "deva": "महाबीर",
+       "gloss": "Mahāvīra, the great hero's"
+      },
+      {
+       "deva": "जब",
+       "gloss": "when",
+       "root": "Skt. yadā"
+      },
+      {
+       "deva": "नाम",
+       "gloss": "name",
+       "root": "Skt. nāman"
+      },
+      {
+       "deva": "सुनावै",
+       "gloss": "is recited",
+       "root": "← √śru, to hear (causative: to make heard)"
+      }
+     ]
+    }
+   ],
+   "meaning": {
+    "en": "Ghosts and evil spirits do not come near when the name of the great hero is spoken."
+   },
+   "bhava": {
+    "en": "For centuries this verse has been whispered by frightened children in the dark. Fear of the unseen dissolves at his name."
+   }
+  },
+  {
+   "id": "c25",
+   "section": "chaupais",
+   "type": "chaupai",
+   "number": 25,
+   "lines": [
+    {
+     "deva": "नासै रोग हरै सब पीरा ।",
+     "roman": "Nasai rog harai sab peera",
+     "words": [
+      {
+       "deva": "नासै",
+       "gloss": "destroys",
+       "root": "Skt. nāśayati ← √naś, to perish"
+      },
+      {
+       "deva": "रोग",
+       "gloss": "disease",
+       "root": "Skt. roga ← √ruj, to break"
+      },
+      {
+       "deva": "हरै",
+       "gloss": "removes",
+       "root": "← √hṛ, to take away"
+      },
+      {
+       "deva": "सब",
+       "gloss": "all"
+      },
+      {
+       "deva": "पीरा",
+       "gloss": "pain",
+       "root": "Skt. pīḍā ← √pīḍ, to press"
+      }
+     ]
+    },
+    {
+     "deva": "जपत निरंतर हनुमत बीरा ॥",
+     "roman": "Japat nirantar Hanumat beera",
+     "words": [
+      {
+       "deva": "जपत",
+       "gloss": "by repeating (the name)",
+       "root": "Skt. japa ← √jap, to murmur"
+      },
+      {
+       "deva": "निरंतर",
+       "gloss": "ceaselessly",
+       "root": "nir (without) + antara (gap)"
+      },
+      {
+       "deva": "हनुमत",
+       "gloss": "of Hanumān"
+      },
+      {
+       "deva": "बीरा",
+       "gloss": "the hero",
+       "root": "Skt. vīra"
+      }
+     ]
+    }
+   ],
+   "meaning": {
+    "en": "Disease is destroyed and all pain removed by ceaselessly repeating the name of the hero Hanumān."
+   },
+   "bhava": {
+    "en": "Nirantara means 'without a gap'. Healing comes from remembrance that runs unbroken beneath daily life."
+   },
+   "notes": [
+    "Tulsidas wrote another hymn, the Hanumān Bāhuk, when he was suffering severe pain in his arm, praying to Hanumān for relief."
+   ]
+  },
+  {
+   "id": "c26",
+   "section": "chaupais",
+   "type": "chaupai",
+   "number": 26,
+   "lines": [
+    {
+     "deva": "संकट तें हनुमान छुड़ावै ।",
+     "roman": "Sankat te Hanuman chhudavai",
+     "words": [
+      {
+       "deva": "संकट",
+       "gloss": "crisis, distress",
+       "root": "Skt. saṅkaṭa, a narrow strait"
+      },
+      {
+       "deva": "तें",
+       "gloss": "from"
+      },
+      {
+       "deva": "हनुमान",
+       "gloss": "Hanumān"
+      },
+      {
+       "deva": "छुड़ावै",
+       "gloss": "frees"
+      }
+     ]
+    },
+    {
+     "deva": "मन क्रम बचन ध्यान जो लावै ॥",
+     "roman": "Man kram bachan dhyan jo lavai",
+     "words": [
+      {
+       "deva": "मन",
+       "gloss": "in mind",
+       "root": "Skt. manas"
+      },
+      {
+       "deva": "क्रम",
+       "gloss": "deed",
+       "root": "Skt. karma ← √kṛ, to do"
+      },
+      {
+       "deva": "बचन",
+       "gloss": "word",
+       "root": "Skt. vacana ← √vac, to speak"
+      },
+      {
+       "deva": "ध्यान",
+       "gloss": "meditation, focus",
+       "root": "Skt. dhyāna ← √dhyai, to contemplate"
+      },
+      {
+       "deva": "जो",
+       "gloss": "whoever"
+      },
+      {
+       "deva": "लावै",
+       "gloss": "brings, fixes"
+      }
+     ]
+    }
+   ],
+   "meaning": {
+    "en": "Hanumān frees from distress whoever fixes their meditation on him in thought, deed and word."
+   },
+   "bhava": {
+    "en": "Mind, action, speech: devotion is complete only when all three agree. This is why he is called Saṅkaṭa-mocana, the remover of distress."
+   }
+  },
+  {
+   "id": "c27",
+   "section": "chaupais",
+   "type": "chaupai",
+   "number": 27,
+   "lines": [
+    {
+     "deva": "सब पर राम तपस्वी राजा ।",
+     "roman": "Sab par Ram tapasvi raja",
+     "words": [
+      {
+       "deva": "सब",
+       "gloss": "all"
+      },
+      {
+       "deva": "पर",
+       "gloss": "above",
+       "root": "Skt. para"
+      },
+      {
+       "deva": "राम",
+       "gloss": "Rāma"
+      },
+      {
+       "deva": "तपस्वी",
+       "gloss": "the ascetic",
+       "root": "Skt. tapasvin ← √tap, to heat (austerity)"
+      },
+      {
+       "deva": "राजा",
+       "gloss": "king",
+       "root": "Skt. rājan ← √rāj, to rule"
+      }
+     ]
+    },
+    {
+     "deva": "तिन के काज सकल तुम साजा ॥",
+     "roman": "Tin ke kaj sakal tum saja",
+     "words": [
+      {
+       "deva": "तिन",
+       "gloss": "his"
+      },
+      {
+       "deva": "के",
+       "gloss": "of"
+      },
+      {
+       "deva": "काज",
+       "gloss": "works"
+      },
+      {
+       "deva": "सकल",
+       "gloss": "all",
+       "root": "sa + kalā, 'with all parts'"
+      },
+      {
+       "deva": "तुम",
+       "gloss": "you"
+      },
+      {
+       "deva": "साजा",
+       "gloss": "accomplished"
+      }
+     ]
+    }
+   ],
+   "meaning": {
+    "en": "Rāma, the ascetic king, is supreme over all, and you accomplished all his works."
+   },
+   "bhava": {
+    "en": "Rāma is both king and ascetic, ruling without attachment. Hanumān is the hands through which that dispassionate rule acts."
+   }
+  },
+  {
+   "id": "c28",
+   "section": "chaupais",
+   "type": "chaupai",
+   "number": 28,
+   "lines": [
+    {
+     "deva": "और मनोरथ जो कोई लावै ।",
+     "roman": "Aur manorath jo koi lavai",
+     "words": [
+      {
+       "deva": "और",
+       "gloss": "and"
+      },
+      {
+       "deva": "मनोरथ",
+       "gloss": "heart's desire",
+       "root": "manas (mind) + ratha (chariot): 'the mind's chariot'"
+      },
+      {
+       "deva": "जो",
+       "gloss": "whatever"
+      },
+      {
+       "deva": "कोई",
+       "gloss": "anyone"
+      },
+      {
+       "deva": "लावै",
+       "gloss": "brings (to you)"
+      }
+     ]
+    },
+    {
+     "deva": "सोइ अमित जीवन फल पावै ॥",
+     "roman": "Soi amit jeevan phal pavai",
+     "words": [
+      {
+       "deva": "सोइ",
+       "gloss": "that very one"
+      },
+      {
+       "deva": "अमित",
+       "gloss": "boundless",
+       "root": "a (not) + √mā (to measure)"
+      },
+      {
+       "deva": "जीवन",
+       "gloss": "of life",
+       "root": "Skt. jīvana ← √jīv, to live"
+      },
+      {
+       "deva": "फल",
+       "gloss": "fruit",
+       "root": "Skt. phala"
+      },
+      {
+       "deva": "पावै",
+       "gloss": "obtains",
+       "root": "Skt. prāpnoti ← pra + √āp, to reach"
+      }
+     ]
+    }
+   ],
+   "meaning": {
+    "en": "Whoever brings you any heart's desire obtains the boundless fruit of life."
+   },
+   "bhava": {
+    "en": "Manoratha, the 'chariot of the mind': our desires carry us everywhere. Brought to Hanumān, that same chariot arrives at fulfilment beyond measure."
+   }
+  },
+  {
+   "id": "c29",
+   "section": "chaupais",
+   "type": "chaupai",
+   "number": 29,
+   "lines": [
+    {
+     "deva": "चारों जुग परताप तुम्हारा ।",
+     "roman": "Charon jug partap tumhara",
+     "words": [
+      {
+       "deva": "चारों",
+       "gloss": "in all four",
+       "root": "Skt. catvāri"
+      },
+      {
+       "deva": "जुग",
+       "gloss": "ages (yugas)",
+       "root": "Skt. yuga"
+      },
+      {
+       "deva": "परताप",
+       "gloss": "glory",
+       "root": "Skt. pratāpa"
+      },
+      {
+       "deva": "तुम्हारा",
+       "gloss": "your"
+      }
+     ]
+    },
+    {
+     "deva": "है परसिद्ध जगत उजियारा ॥",
+     "roman": "Hai parsiddh jagat ujiyara",
+     "words": [
+      {
+       "deva": "है",
+       "gloss": "is",
+       "root": "Skt. asti ← √as, to be"
+      },
+      {
+       "deva": "परसिद्ध",
+       "gloss": "renowned",
+       "root": "Skt. prasiddha: pra + √sidh"
+      },
+      {
+       "deva": "जगत",
+       "gloss": "the world's"
+      },
+      {
+       "deva": "उजियारा",
+       "gloss": "light",
+       "root": "cf. Skt. ujjvala ← ud + √jval, to blaze"
+      }
+     ]
+    }
+   ],
+   "meaning": {
+    "en": "Your glory pervades all four ages; your fame is renowned as the light of the world."
+   },
+   "bhava": {
+    "en": "Hanumān is a cirañjīvī, one of the 'long-lived' who remain on earth through the ages, so his glory is not only remembered but present."
+   }
+  },
+  {
+   "id": "c30",
+   "section": "chaupais",
+   "type": "chaupai",
+   "number": 30,
+   "lines": [
+    {
+     "deva": "साधु संत के तुम रखवारे ।",
+     "roman": "Sadhu sant ke tum rakhvare",
+     "words": [
+      {
+       "deva": "साधु",
+       "gloss": "the good",
+       "root": "Skt. sādhu ← √sādh, to accomplish"
+      },
+      {
+       "deva": "संत",
+       "gloss": "the saints",
+       "root": "Skt. sat ← √as, to be ('the real, the true')"
+      },
+      {
+       "deva": "के",
+       "gloss": "of"
+      },
+      {
+       "deva": "तुम",
+       "gloss": "you (are)"
+      },
+      {
+       "deva": "रखवारे",
+       "gloss": "protector",
+       "root": "← √rakṣ, to protect"
+      }
+     ]
+    },
+    {
+     "deva": "असुर निकंदन राम दुलारे ॥",
+     "roman": "Asur nikandan Ram dulare",
+     "words": [
+      {
+       "deva": "असुर",
+       "gloss": "of demons",
+       "root": "Skt. asura"
+      },
+      {
+       "deva": "निकंदन",
+       "gloss": "destroyer",
+       "root": "ni + kanda (root, tuber): 'one who pulls up by the roots'"
+      },
+      {
+       "deva": "राम",
+       "gloss": "of Rāma"
+      },
+      {
+       "deva": "दुलारे",
+       "gloss": "beloved, darling",
+       "root": "Awadhi dulār, tender affection"
+      }
+     ]
+    }
+   ],
+   "meaning": {
+    "en": "You are the protector of the good and the saints, the destroyer of demons, Rāma's darling."
+   },
+   "bhava": {
+    "en": "Nikandana means to uproot. Hanumān does not trim evil; he removes it from the root. And yet to Rāma he is simply 'dulāre', a beloved child."
+   }
+  },
+  {
+   "id": "c31",
+   "section": "chaupais",
+   "type": "chaupai",
+   "number": 31,
+   "lines": [
+    {
+     "deva": "अष्ट सिद्धि नौ निधि के दाता ।",
+     "roman": "Ashta siddhi nau nidhi ke data",
+     "words": [
+      {
+       "deva": "अष्ट",
+       "gloss": "eight",
+       "root": "Skt. aṣṭa"
+      },
+      {
+       "deva": "सिद्धि",
+       "gloss": "(yogic) perfections",
+       "root": "Skt. siddhi ← √sidh, to succeed"
+      },
+      {
+       "deva": "नौ",
+       "gloss": "nine",
+       "root": "Skt. nava"
+      },
+      {
+       "deva": "निधि",
+       "gloss": "treasures",
+       "root": "Skt. nidhi: ni + √dhā, to deposit"
+      },
+      {
+       "deva": "के",
+       "gloss": "of"
+      },
+      {
+       "deva": "दाता",
+       "gloss": "giver",
+       "root": "Skt. dātṛ ← √dā, to give"
+      }
+     ]
+    },
+    {
+     "deva": "अस बर दीन जानकी माता ॥",
+     "roman": "As bar deen Janaki mata",
+     "words": [
+      {
+       "deva": "अस",
+       "gloss": "such"
+      },
+      {
+       "deva": "बर",
+       "gloss": "boon",
+       "root": "Skt. vara ← √vṛ, to choose"
+      },
+      {
+       "deva": "दीन",
+       "gloss": "was given (by)",
+       "root": "← √dā, to give"
+      },
+      {
+       "deva": "जानकी",
+       "gloss": "Jānakī, Sītā, daughter of Janaka"
+      },
+      {
+       "deva": "माता",
+       "gloss": "the Mother",
+       "root": "Skt. mātṛ"
+      }
+     ]
+    }
+   ],
+   "meaning": {
+    "en": "You are the giver of the eight siddhis and the nine treasures; Mother Jānakī granted you this boon."
+   },
+   "bhava": {
+    "en": "Sītā, finding a son in the Aśoka grove, blessed him with every power to give away. Hanumān's wealth exists to be shared."
+   },
+   "notes": [
+    "The eight siddhis: aṇimā (becoming tiny), mahimā (vast), garimā (heavy), laghimā (light), prāpti (reaching anywhere), prākāmya (fulfilling any wish), īśitva (lordship), vaśitva (mastery).",
+    "In the Sundara Kāṇḍa, Sītā blesses him: 'अजर अमर गुननिधि सुत होहू', 'My son, may you be ageless, deathless, a treasury of virtues.'"
+   ]
+  },
+  {
+   "id": "c32",
+   "section": "chaupais",
+   "type": "chaupai",
+   "number": 32,
+   "lines": [
+    {
+     "deva": "राम रसायन तुम्हरे पासा ।",
+     "roman": "Ram rasayan tumhare pasa",
+     "words": [
+      {
+       "deva": "राम",
+       "gloss": "of Rāma"
+      },
+      {
+       "deva": "रसायन",
+       "gloss": "the elixir",
+       "root": "rasa (essence) + ayana (path, abode)"
+      },
+      {
+       "deva": "तुम्हरे",
+       "gloss": "your"
+      },
+      {
+       "deva": "पासा",
+       "gloss": "(is) with you",
+       "root": "Skt. pārśva, side"
+      }
+     ]
+    },
+    {
+     "deva": "सदा रहो रघुपति के दासा ॥",
+     "roman": "Sada raho Raghupati ke dasa",
+     "words": [
+      {
+       "deva": "सदा",
+       "gloss": "forever",
+       "root": "Skt. sadā"
+      },
+      {
+       "deva": "रहो",
+       "gloss": "you remain"
+      },
+      {
+       "deva": "रघुपति",
+       "gloss": "of the Lord of the Raghus"
+      },
+      {
+       "deva": "के",
+       "gloss": "of"
+      },
+      {
+       "deva": "दासा",
+       "gloss": "servant",
+       "root": "Skt. dāsa"
+      }
+     ]
+    }
+   ],
+   "meaning": {
+    "en": "You hold the elixir of Rāma's name; may you remain forever the servant of the Lord of the Raghus."
+   },
+   "bhava": {
+    "en": "Hanumān could be anything, yet he chooses one identity: dāsa, servant. Dāsya bhakti, devotion as service, is his whole being."
+   },
+   "notes": [
+    "Some editions read 'सादर हो रघुपति के दासा', 'you are lovingly Rāma's servant'."
+   ]
+  },
+  {
+   "id": "c33",
+   "section": "chaupais",
+   "type": "chaupai",
+   "number": 33,
+   "lines": [
+    {
+     "deva": "तुम्हरे भजन राम को पावै ।",
+     "roman": "Tumhare bhajan Ram ko pavai",
+     "words": [
+      {
+       "deva": "तुम्हरे",
+       "gloss": "your"
+      },
+      {
+       "deva": "भजन",
+       "gloss": "worship, devotion",
+       "root": "Skt. bhajana ← √bhaj, to share, partake, adore (the same root as bhakti)"
+      },
+      {
+       "deva": "राम",
+       "gloss": "Rāma"
+      },
+      {
+       "deva": "को",
+       "gloss": "(one)"
+      },
+      {
+       "deva": "पावै",
+       "gloss": "attains"
+      }
+     ]
+    },
+    {
+     "deva": "जनम जनम के दुख बिसरावै ॥",
+     "roman": "Janam janam ke dukh bisravai",
+     "words": [
+      {
+       "deva": "जनम",
+       "gloss": "birth",
+       "root": "Skt. janman ← √jan, to be born"
+      },
+      {
+       "deva": "जनम",
+       "gloss": "(after) birth"
+      },
+      {
+       "deva": "के",
+       "gloss": "of"
+      },
+      {
+       "deva": "दुख",
+       "gloss": "sorrow",
+       "root": "Skt. duḥkha: duḥ (bad) + kha (axle-hole): a wheel that runs roughly"
+      },
+      {
+       "deva": "बिसरावै",
+       "gloss": "forgets, leaves behind",
+       "root": "Skt. vi + √smṛ, to forget"
+      }
+     ]
+    }
+   ],
+   "meaning": {
+    "en": "Through devotion to you one attains Rāma and leaves behind the sorrows of birth after birth."
+   },
+   "bhava": {
+    "en": "Duḥkha literally pictures a badly fitted axle, life jolting along. Bhajan realigns the wheel."
+   }
+  },
+  {
+   "id": "c34",
+   "section": "chaupais",
+   "type": "chaupai",
+   "number": 34,
+   "lines": [
+    {
+     "deva": "अन्तकाल रघुबर पुर जाई ।",
+     "roman": "Antakal Raghubar pur jaai",
+     "words": [
+      {
+       "deva": "अन्तकाल",
+       "gloss": "at the time of death",
+       "root": "anta (end) + kāla (time)"
+      },
+      {
+       "deva": "रघुबर",
+       "gloss": "of Rāma"
+      },
+      {
+       "deva": "पुर",
+       "gloss": "to the city, abode",
+       "root": "Skt. pura"
+      },
+      {
+       "deva": "जाई",
+       "gloss": "goes",
+       "root": "Skt. yāti ← √yā, to go"
+      }
+     ]
+    },
+    {
+     "deva": "जहाँ जन्म हरिभक्त कहाई ॥",
+     "roman": "Jahan janm Hari-bhakt kahai",
+     "words": [
+      {
+       "deva": "जहाँ",
+       "gloss": "where (if)"
+      },
+      {
+       "deva": "जन्म",
+       "gloss": "(taking) birth",
+       "root": "Skt. janman"
+      },
+      {
+       "deva": "हरिभक्त",
+       "gloss": "devotee of Hari",
+       "root": "hari (√hṛ, 'the one who takes away sin') + bhakta (√bhaj)"
+      },
+      {
+       "deva": "कहाई",
+       "gloss": "is called"
+      }
+     ]
+    }
+   ],
+   "meaning": {
+    "en": "At life's end he goes to Rāma's own abode, and wherever he is born again, he is known as a devotee of Hari."
+   },
+   "bhava": {
+    "en": "Even rebirth is not feared: the devotee asks only to be born again as a devotee."
+   }
+  },
+  {
+   "id": "c35",
+   "section": "chaupais",
+   "type": "chaupai",
+   "number": 35,
+   "lines": [
+    {
+     "deva": "और देवता चित्त न धरई ।",
+     "roman": "Aur devata chitt na dharai",
+     "words": [
+      {
+       "deva": "और",
+       "gloss": "other"
+      },
+      {
+       "deva": "देवता",
+       "gloss": "deities",
+       "root": "Skt. devatā ← √div, to shine"
+      },
+      {
+       "deva": "चित्त",
+       "gloss": "in mind",
+       "root": "Skt. citta ← √cit, to perceive"
+      },
+      {
+       "deva": "न",
+       "gloss": "not"
+      },
+      {
+       "deva": "धरई",
+       "gloss": "holds",
+       "root": "← √dhṛ, to hold"
+      }
+     ]
+    },
+    {
+     "deva": "हनुमत सेइ सर्ब सुख करई ॥",
+     "roman": "Hanumat sei sarb sukh karai",
+     "words": [
+      {
+       "deva": "हनुमत",
+       "gloss": "Hanumān"
+      },
+      {
+       "deva": "सेइ",
+       "gloss": "serving",
+       "root": "Skt. sevā ← √sev, to serve"
+      },
+      {
+       "deva": "सर्ब",
+       "gloss": "all",
+       "root": "Skt. sarva"
+      },
+      {
+       "deva": "सुख",
+       "gloss": "joy"
+      },
+      {
+       "deva": "करई",
+       "gloss": "attains",
+       "root": "← √kṛ"
+      }
+     ]
+    }
+   ],
+   "meaning": {
+    "en": "Even one who does not keep other deities in mind attains every joy by serving Hanumān."
+   },
+   "bhava": {
+    "en": "This is not a rejection of other gods but a reassurance: one sincere devotion is enough."
+   }
+  },
+  {
+   "id": "c36",
+   "section": "chaupais",
+   "type": "chaupai",
+   "number": 36,
+   "lines": [
+    {
+     "deva": "संकट कटै मिटै सब पीरा ।",
+     "roman": "Sankat katai mitai sab peera",
+     "words": [
+      {
+       "deva": "संकट",
+       "gloss": "distress",
+       "root": "Skt. saṅkaṭa"
+      },
+      {
+       "deva": "कटै",
+       "gloss": "is cut away",
+       "root": "← √kṛt, to cut"
+      },
+      {
+       "deva": "मिटै",
+       "gloss": "vanishes"
+      },
+      {
+       "deva": "सब",
+       "gloss": "all"
+      },
+      {
+       "deva": "पीरा",
+       "gloss": "pain",
+       "root": "Skt. pīḍā"
+      }
+     ]
+    },
+    {
+     "deva": "जो सुमिरै हनुमत बलबीरा ॥",
+     "roman": "Jo sumirai Hanumat balbeera",
+     "words": [
+      {
+       "deva": "जो",
+       "gloss": "whoever"
+      },
+      {
+       "deva": "सुमिरै",
+       "gloss": "remembers",
+       "root": "← √smṛ, to remember"
+      },
+      {
+       "deva": "हनुमत",
+       "gloss": "Hanumān"
+      },
+      {
+       "deva": "बलबीरा",
+       "gloss": "the mighty hero",
+       "root": "bala (strength) + vīra (hero)"
+      }
+     ]
+    }
+   ],
+   "meaning": {
+    "en": "Distress is cut away and all pain vanishes for whoever remembers Hanumān, the mighty hero."
+   },
+   "bhava": {
+    "en": "Smaraṇa, simple remembrance, is the easiest of the nine forms of bhakti, and here it is enough."
+   }
+  },
+  {
+   "id": "c37",
+   "section": "chaupais",
+   "type": "chaupai",
+   "number": 37,
+   "lines": [
+    {
+     "deva": "जै जै जै हनुमान गोसाईं ।",
+     "roman": "Jai Jai Jai Hanuman Gosain",
+     "words": [
+      {
+       "deva": "जै",
+       "gloss": "victory",
+       "root": "Skt. jaya"
+      },
+      {
+       "deva": "जै",
+       "gloss": "victory",
+       "root": "Skt. jaya"
+      },
+      {
+       "deva": "जै",
+       "gloss": "victory",
+       "root": "Skt. jaya"
+      },
+      {
+       "deva": "हनुमान",
+       "gloss": "O Hanumān"
+      },
+      {
+       "deva": "गोसाईं",
+       "gloss": "Lord, master",
+       "root": "Skt. gosvāmin: go (senses, cows) + svāmin (master)"
+      }
+     ]
+    },
+    {
+     "deva": "कृपा करहु गुरुदेव की नाईं ॥",
+     "roman": "Kripa karahu gurudev ki nain",
+     "words": [
+      {
+       "deva": "कृपा",
+       "gloss": "grace",
+       "root": "Skt. kṛpā, compassion"
+      },
+      {
+       "deva": "करहु",
+       "gloss": "bestow",
+       "root": "← √kṛ"
+      },
+      {
+       "deva": "गुरुदेव",
+       "gloss": "a divine Guru",
+       "root": "guru + deva"
+      },
+      {
+       "deva": "की",
+       "gloss": "of"
+      },
+      {
+       "deva": "नाईं",
+       "gloss": "like"
+      }
+     ]
+    }
+   ],
+   "meaning": {
+    "en": "Victory, victory, victory to you, Lord Hanumān! Bless me with grace as my Guru would."
+   },
+   "bhava": {
+    "en": "The hymn that began at the Guru's feet now asks Hanumān himself to be the Guru. The circle of grace closes."
+   },
+   "notes": [
+    "The threefold 'jai' is often sung with rising intensity and is a favourite moment in congregational singing."
+   ]
+  },
+  {
+   "id": "c38",
+   "section": "chaupais",
+   "type": "chaupai",
+   "number": 38,
+   "lines": [
+    {
+     "deva": "जो सत बार पाठ कर कोई ।",
+     "roman": "Jo sat baar paath kar koi",
+     "words": [
+      {
+       "deva": "जो",
+       "gloss": "whoever"
+      },
+      {
+       "deva": "सत",
+       "gloss": "a hundred",
+       "root": "Skt. śata"
+      },
+      {
+       "deva": "बार",
+       "gloss": "times",
+       "root": "Skt. vāra"
+      },
+      {
+       "deva": "पाठ",
+       "gloss": "recitation",
+       "root": "Skt. pāṭha ← √paṭh, to recite"
+      },
+      {
+       "deva": "कर",
+       "gloss": "does"
+      },
+      {
+       "deva": "कोई",
+       "gloss": "anyone"
+      }
+     ]
+    },
+    {
+     "deva": "छूटहि बंदि महा सुख होई ॥",
+     "roman": "Chhootahi bandi maha sukh hoi",
+     "words": [
+      {
+       "deva": "छूटहि",
+       "gloss": "is freed"
+      },
+      {
+       "deva": "बंदि",
+       "gloss": "(from) bondage",
+       "root": "Skt. bandha ← √bandh, to bind"
+      },
+      {
+       "deva": "महा",
+       "gloss": "great"
+      },
+      {
+       "deva": "सुख",
+       "gloss": "joy"
+      },
+      {
+       "deva": "होई",
+       "gloss": "there is",
+       "root": "← √bhū"
+      }
+     ]
+    }
+   ],
+   "meaning": {
+    "en": "Whoever recites this a hundred times is freed from bondage and attains great joy."
+   },
+   "bhava": {
+    "en": "Bondage can mean a prison, as in the legend of the hymn's composition, or the subtler bondage of saṃsāra."
+   },
+   "notes": [
+    "Many editions read 'यह सत बार…', 'this, a hundred times'. Recitation 100 or 108 times is an established practice."
+   ]
+  },
+  {
+   "id": "c39",
+   "section": "chaupais",
+   "type": "chaupai",
+   "number": 39,
+   "lines": [
+    {
+     "deva": "जो यह पढ़ै हनुमान चालीसा ।",
+     "roman": "Jo yah padhai Hanuman Chalisa",
+     "words": [
+      {
+       "deva": "जो",
+       "gloss": "whoever"
+      },
+      {
+       "deva": "यह",
+       "gloss": "this"
+      },
+      {
+       "deva": "पढ़ै",
+       "gloss": "reads",
+       "root": "← √paṭh, to read"
+      },
+      {
+       "deva": "हनुमान",
+       "gloss": "Hanumān"
+      },
+      {
+       "deva": "चालीसा",
+       "gloss": "Chālīsā (forty verses)",
+       "root": "from cālīs, forty; Skt. catvāriṃśat"
+      }
+     ]
+    },
+    {
+     "deva": "होय सिद्धि साखी गौरीसा ॥",
+     "roman": "Hoy siddhi sakhi Gaurisa",
+     "words": [
+      {
+       "deva": "होय",
+       "gloss": "attains",
+       "root": "← √bhū"
+      },
+      {
+       "deva": "सिद्धि",
+       "gloss": "perfection, success",
+       "root": "Skt. siddhi"
+      },
+      {
+       "deva": "साखी",
+       "gloss": "witness (is)",
+       "root": "Skt. sākṣin: sa (with) + akṣi (eye), 'one who has seen'"
+      },
+      {
+       "deva": "गौरीसा",
+       "gloss": "Lord of Gaurī, Śiva",
+       "root": "gaurī + īśa"
+      }
+     ]
+    }
+   ],
+   "meaning": {
+    "en": "Whoever reads this Hanumān Chālīsā attains perfection; Śiva, Lord of Gaurī, is the witness."
+   },
+   "bhava": {
+    "en": "Śiva himself stands as sākṣī, witness, to this promise, fitting for a hymn to his own avatāra."
+   }
+  },
+  {
+   "id": "c40",
+   "section": "chaupais",
+   "type": "chaupai",
+   "number": 40,
+   "lines": [
+    {
+     "deva": "तुलसीदास सदा हरि चेरा ।",
+     "roman": "Tulsidas sada Hari chera",
+     "words": [
+      {
+       "deva": "तुलसीदास",
+       "gloss": "Tulsidas",
+       "root": "tulasī (holy basil, beloved of Viṣṇu) + dāsa (servant)"
+      },
+      {
+       "deva": "सदा",
+       "gloss": "always"
+      },
+      {
+       "deva": "हरि",
+       "gloss": "of Hari"
+      },
+      {
+       "deva": "चेरा",
+       "gloss": "servant, disciple",
+       "root": "Skt. ceṭa"
+      }
+     ]
+    },
+    {
+     "deva": "कीजै नाथ हृदय महँ डेरा ॥",
+     "roman": "Keejai Nath hriday mahan dera",
+     "words": [
+      {
+       "deva": "कीजै",
+       "gloss": "please make",
+       "root": "← √kṛ"
+      },
+      {
+       "deva": "नाथ",
+       "gloss": "O Lord",
+       "root": "Skt. nātha, protector"
+      },
+      {
+       "deva": "हृदय",
+       "gloss": "(my) heart",
+       "root": "Skt. hṛdaya"
+      },
+      {
+       "deva": "महँ",
+       "gloss": "in",
+       "root": "Skt. madhye"
+      },
+      {
+       "deva": "डेरा",
+       "gloss": "dwelling, (your) camp"
+      }
+     ]
+    }
+   ],
+   "meaning": {
+    "en": "Tulsidas is forever Hari's servant. O Lord, make your dwelling in my heart."
+   },
+   "bhava": {
+    "en": "The poet signs his name with the most intimate request of all. Not 'visit me' but 'camp here': make my heart your home."
+   },
+   "notes": [
+    "This is the 'signature verse' (chāp) customary in bhakti poetry, where the poet names himself."
+   ]
+  },
+  {
+   "id": "d3",
+   "section": "closing",
+   "type": "doha",
+   "number": 3,
+   "lines": [
+    {
+     "deva": "पवनतनय संकट हरन मंगल मूरति रूप ।",
+     "roman": "Pavan-tanay sankat haran, mangal murati roop",
+     "words": [
+      {
+       "deva": "पवनतनय",
+       "gloss": "Son of the Wind",
+       "root": "pavana + tanaya (son; √tan, to extend)"
+      },
+      {
+       "deva": "संकट",
+       "gloss": "of distress",
+       "root": "Skt. saṅkaṭa"
+      },
+      {
+       "deva": "हरन",
+       "gloss": "remover",
+       "root": "Skt. haraṇa ← √hṛ, to remove"
+      },
+      {
+       "deva": "मंगल",
+       "gloss": "auspiciousness",
+       "root": "Skt. maṅgala"
+      },
+      {
+       "deva": "मूरति",
+       "gloss": "embodiment",
+       "root": "Skt. mūrti ← √mūrch, to take solid shape"
+      },
+      {
+       "deva": "रूप",
+       "gloss": "in form",
+       "root": "Skt. rūpa"
+      }
+     ]
+    },
+    {
+     "deva": "राम लखन सीता सहित हृदय बसहु सुर भूप ॥",
+     "roman": "Ram Lakhan Sita sahit, hriday basahu sur bhoop",
+     "words": [
+      {
+       "deva": "राम",
+       "gloss": "Rāma"
+      },
+      {
+       "deva": "लखन",
+       "gloss": "Lakṣmaṇa"
+      },
+      {
+       "deva": "सीता",
+       "gloss": "Sītā"
+      },
+      {
+       "deva": "सहित",
+       "gloss": "together with"
+      },
+      {
+       "deva": "हृदय",
+       "gloss": "in (my) heart",
+       "root": "Skt. hṛdaya"
+      },
+      {
+       "deva": "बसहु",
+       "gloss": "dwell",
+       "root": "← √vas, to dwell"
+      },
+      {
+       "deva": "सुर",
+       "gloss": "of the gods",
+       "root": "Skt. sura"
+      },
+      {
+       "deva": "भूप",
+       "gloss": "king",
+       "root": "bhū (earth) + pa (protector)"
+      }
+     ]
+    }
+   ],
+   "meaning": {
+    "en": "O Son of the Wind, remover of distress, embodiment of all that is auspicious: king among the gods, dwell in my heart together with Rāma, Lakṣmaṇa and Sītā."
+   },
+   "bhava": {
+    "en": "The final wish is not for anything to be given but for someone to come: the whole divine family, living in one devotee's heart."
+   },
+   "notes": [
+    "Recitations often end with the call 'सियावर रामचंद्र की जय! पवनसुत हनुमान की जय!'"
+   ]
+  }
+ ]
+}
