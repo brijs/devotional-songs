@@ -399,6 +399,9 @@ body.has-art .recite .rart::before {
 
 /* ───────────── Footer ───────────── */
 footer { text-align: center; color: var(--ink-faint); font-family: var(--font-ui); font-size: 12.5px; padding: 30px 0 48px; }
+footer .jaikara { font-family: var(--font-deva); font-size: 18px; line-height: 1.9; color: var(--accent-2); }
+footer .jaikara span { white-space: nowrap; margin: 0 .3em; }
+@media (max-width: 520px) { footer .jaikara span { display: block; } footer .jaikara br { display: none; } }
 
 @media (max-width: 520px) {
   body { font-size: calc(17.5px * var(--scale)); }
